@@ -95,6 +95,17 @@ Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
 
+Requirements to be able to render **emojis*** via markdown...
+1. Add to Gemfile
+```
+gem 'jemoji'
+```
+2. Add to _config.yml
+```
+plugins:
+  - jemoji
+```
+
 ### Task List Example
 - [ ] Write the press releasse
 - [x] Update the website
