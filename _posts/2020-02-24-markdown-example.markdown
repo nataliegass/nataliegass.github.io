@@ -1,6 +1,14 @@
-# Heading 1
+---
+title:  "Markdown Example"
+excerpt: "Best markdown example ever..."
+date:   2020-02-24
+tags: [gass, markdown]
+mathjax: "true"
+---
+
 ## Heading 2
 ### Heading 3
+#### Heading 4
 
 Line with **bold** text.
 
@@ -126,6 +134,11 @@ This is on a separate line
 a^2+b^2=c^2
 ```
 
+This is another example.
+
+$$ N = \frac{t_{statistic=-1.652}}{0.05}^{2} \cdot 2 \cdot var $$
+
+
 ### Backslash Escaping
 \\
 ### Backtick Escaping
@@ -155,7 +168,16 @@ a^2+b^2=c^2
 
 ### Horizontal Line Example 1
 ***
+sometext
 ### Horizontal Line Example 2
 ---
+sometext
 ### Horizontal Line Example 3
 _________________
+sometext
+### Horizontal Line Example 4
+- - -
+sometext
+### Horizontal Line Example 5
+_________________________
+sometext
