@@ -25,14 +25,18 @@ Line with *italicized* text.
 >
 >  *Everything* is going according to **plan**.
 
-### Definition List Example 1
-First Term
-: This is the definition of the first term.
+### Footnote Example
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
-### Definition List Example 2
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
+[^1]: This is the first footnote.
+
+[^bignote]: Here's footnote with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
 
 ### Ordered List Example
 
@@ -58,19 +62,6 @@ Second Term
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
-
-### Footnote Example
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's footnote with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
 
 ### Code Block Example 1
 ```
@@ -127,23 +118,40 @@ The example link above will redirect to the following Heading below
 * brachiosaurus
 
 ### Math Equation Example
-You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
-$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line
+
+```math
+a^2+b^2=c^2
+```
 
 ### Backslash Escaping
-* \\    backslash
-* \`    backtick (see also escaping backticks in code)
-* \*    asterisk
-* \_    underscore
-* \{ }    curly braces
-* \[ ]    brackets
-* \( )    parentheses
-* \#    pound sign
-* \+    plus sign
-* \-    minus sign (hyphen)
-* \.    dot
-* \!    exclamation mark
-* \|    pipe (see also escaping pipe in tables)
+\\
+### Backtick Escaping
+\`
+### Asterisk Escaping
+\*
+### Underscore Escaping
+\_
+### Curly Braces Escaping
+\{ }
+### Brackets Escaping
+\[ ]
+### Parentheses Escaping
+\( )
+### Pound Sign Escaping
+\#
+### Plus Sign Escaping
+\+
+### Hyphen Escaping
+\-
+### Dot Escaping
+\.
+### Exclamation Mark Escaping
+\!
+### Pipe Escaping
+\|
 
 ### Horizontal Line Example 1
 ***
