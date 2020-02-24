@@ -25,6 +25,15 @@ Line with *italicized* text.
 >
 >  *Everything* is going according to **plan**.
 
+### Definition List Example 1
+First Term
+: This is the definition of the first term.
+
+### Definition List Example 2
+Second Term
+: This is one definition of the second term.
+: This is another definition of the second term.
+
 ### Ordered List Example
 
 1. First item
@@ -50,6 +59,19 @@ Line with *italicized* text.
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
+### Footnote Example
+Here's a simple footnote,[^1] and here's a longer one.[^bignote]
+
+[^1]: This is the first footnote.
+
+[^bignote]: Here's footnote with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    `{ my code }`
+
+    Add as many paragraphs as you like.
+
 ### Code Block Example 1
 ```
 lines
@@ -66,26 +88,13 @@ code
 }
 ```
 
-### Footnote Example
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's one with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    `{ my code }`
-
-    Add as many paragraphs as you like.
+### Striketrough Example
+~~The world is flat.~~ We now know that the world is round.
 
 ### Emoji Example
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
-
-### Striketrough Example
-~~The world is flat.~~ We now know that the world is round.
 
 ### Task List Example
 - [ ] Write the press releasse
@@ -118,41 +127,27 @@ The example link above will redirect to the following Heading below
 * brachiosaurus
 
 ### Math Equation Example
-Inline math equation: $\omega = d\phi / dt$. Display
-math should get its own line like so:
-
-$$I = \int \rho R^{2} dV$$
-
-### Definition List Example 1
-First Term
-: This is the definition of the first term.
-
-### Definition List Example 2
-Second Term
-: This is one definition of the second term.
-: This is another definition of the second term.
-
-### Horizontal Lines
-
-***
-
----
-
-_________________
+You can use $$\LaTeX$$ to typeset formulas. A formula can be displayed inline, e.g. $$e=mc^2$$, or as a block:
+$$\int_\Omega \nabla u \cdot \nabla v~dx = \int_\Omega fv~dx$$
 
 ### Backslash Escaping
-```
-\\    backslash
-\`    backtick (see also escaping backticks in code)
-\*    asterisk
-\_    underscore
-\{ }    curly braces
-\[ ]    brackets
-\( )    parentheses
-\#    pound sign
-\+    plus sign
-\-    minus sign (hyphen)
-\.    dot
-\!    exclamation mark
-\|    pipe (see also escaping pipe in tables)
-```
+* \\    backslash
+* \`    backtick (see also escaping backticks in code)
+* \*    asterisk
+* \_    underscore
+* \{ }    curly braces
+* \[ ]    brackets
+* \( )    parentheses
+* \#    pound sign
+* \+    plus sign
+* \-    minus sign (hyphen)
+* \.    dot
+* \!    exclamation mark
+* \|    pipe (see also escaping pipe in tables)
+
+### Horizontal Line Example 1
+***
+### Horizontal Line Example 2
+---
+### Horizontal Line Example 3
+_________________
