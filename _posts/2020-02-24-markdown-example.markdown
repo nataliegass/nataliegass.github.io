@@ -57,7 +57,7 @@ of
 code
 ```
 
-### Code Block Example 2
+### Code Block Example 2 (JSON)
 ```json
 {
   "firstName": "John",
@@ -67,7 +67,6 @@ code
 ```
 
 ### Footnote Example
-```
 Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
 [^1]: This is the first footnote.
@@ -79,9 +78,8 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
     `{ my code }`
 
     Add as many paragraphs as you like.
-```
 
-### Heading ID Example
+### Emoji Example
 Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
@@ -113,8 +111,11 @@ The example link above will redirect to the following Heading below
 
 ### Dinosaurs {#custom-dinosaurs-id}
 * tyrannosaurus rex
-* tyrannosaurus rex
-* tyrannosaurus rex
+* pterodactyl
+* velociraptor
+* triceratops
+* stegosaurus
+* brachiosaurus
 
 ### Math Equation Example
 Inline math equation: $\omega = d\phi / dt$. Display
@@ -140,6 +141,7 @@ Second Term
 _________________
 
 ### Backslash Escaping
+```
 \\    backslash
 \`    backtick (see also escaping backticks in code)
 \*    asterisk
@@ -153,3 +155,4 @@ _________________
 \.    dot
 \!    exclamation mark
 \|    pipe (see also escaping pipe in tables)
+```
