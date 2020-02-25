@@ -150,45 +150,40 @@ This is another example.
 $$ N = \frac{t_{statistic=-1.652}}{0.05}^{2} \cdot 2 \cdot var $$
 
 
-### Backslash Escaping
+#### Backslash Escaping
 \\
-### Backtick Escaping
+#### Backtick Escaping
 \`
-### Asterisk Escaping
+#### Asterisk Escaping
 \*
-### Underscore Escaping
+#### Underscore Escaping
 \_
-### Curly Braces Escaping
+#### Curly Braces Escaping
 \{ }
-### Brackets Escaping
+#### Brackets Escaping
 \[ ]
-### Parentheses Escaping
+#### Parentheses Escaping
 \( )
-### Pound Sign Escaping
+#### Pound Sign Escaping
 \#
-### Plus Sign Escaping
+#### Plus Sign Escaping
 \+
-### Hyphen Escaping
+#### Hyphen Escaping
 \-
-### Dot Escaping
+#### Dot Escaping
 \.
-### Exclamation Mark Escaping
+#### Exclamation Mark Escaping
 \!
-### Pipe Escaping
+#### Pipe Escaping
 \|
 
 ### Horizontal Line Example 1
 ***
-sometext
 ### Horizontal Line Example 2
 ---
-sometext
 ### Horizontal Line Example 3
 _________________
-sometext
 ### Horizontal Line Example 4
 - - -
-sometext
 ### Horizontal Line Example 5
 _________________________
-sometext
