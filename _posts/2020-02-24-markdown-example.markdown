@@ -3,7 +3,6 @@ title:  "Markdown Example"
 excerpt: "Best markdown example ever..."
 date:   2020-02-24
 tags: [gass, markdown]
-mathjax: true
 ---
 
 ## Heading 2
@@ -144,6 +143,9 @@ This is on a separate line
 ```math
 a^2+b^2=c^2
 ```
+Anotha one
+
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 This is another example.
 
