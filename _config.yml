@@ -34,7 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
-  - jekyll-quicklatex
 
 # Exclude from processing.
 # The following items will not be processed, by default.
