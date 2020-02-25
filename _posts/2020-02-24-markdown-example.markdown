@@ -3,7 +3,6 @@ title:  "Markdown Example"
 excerpt: "Best markdown example ever..."
 date:   2020-02-24
 tags: [gass, markdown]
-mathjax: "true"
 ---
 
 ## Heading 2
