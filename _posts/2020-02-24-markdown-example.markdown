@@ -136,11 +136,13 @@ The example link above will redirect to the following Heading below
 * brachiosaurus
 
 ### Math Equation Example
-![differentword](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+![](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 This math is inline $`a^2+b^2=c^2`$.
 
 This is on a separate line
+
+![differentword](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 
 ```math
 a^2+b^2=c^2
