@@ -5,7 +5,6 @@ date:   2020-02-24
 tags: [gass, markdown]
 layout: post
 mathjax: true
-comments: true
 ---
 
 ## Heading 2
