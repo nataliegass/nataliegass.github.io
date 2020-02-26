@@ -3,8 +3,11 @@ title:  "Markdown Example"
 excerpt: "Best markdown example ever..."
 date:   2020-02-24
 tags: [gass, markdown]
-layout: post
 mathjax: true
+extra_js:
+  - src: "https://polyfill.io/v3/polyfill.min.js?features=es6"
+  - src: "https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+    id: "MathJax-script"
 ---
 
 ## Heading 2
