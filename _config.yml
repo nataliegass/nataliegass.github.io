@@ -36,7 +36,7 @@ plugins:
   - jemoji
   
 markdown: redcarpet
-kramdown:
+redcarpet:
   math_engine: mathjax
 mathjax: true
 
