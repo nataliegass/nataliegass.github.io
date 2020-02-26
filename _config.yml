@@ -34,11 +34,6 @@ theme: minima
 plugins:
   - jekyll-feed
   - jemoji
-  
-markdown: redcarpet
-redcarpet:
-  math_engine: mathjax
-mathjax: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
