@@ -3,18 +3,6 @@ title:  "Markdown Example"
 excerpt: "Best markdown example ever..."
 date:   2020-02-24
 tags: [gass, markdown]
-extra_css:
-  - src: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.css"
-    integrity: "sha384-zB1R0rpPzHqg7Kpt0Aljp8JPLqbXI3bhnPWROx27a9N0Ll6ZP/+DiW/UqRcLbRjq"
-    crossorigin: "anonymous"
-extra_js:
-  - src: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/katex.min.js"
-    integrity: "sha384-y23I5Q6l+B6vatafAwxRu/0oK/79VlbSz7Q9aiSZUvyWYIYsd+qj+o24G5ZU2zJz"
-    crossorigin: "anonymous"
-  - src: "https://cdn.jsdelivr.net/npm/katex@0.11.1/dist/contrib/auto-render.min.js"
-    integrity: "sha384-kWPLUVMOks5AQFrykwIup5lo0m3iMkkHrD0uJ4H5cjeGihAutqP0yW0J6dpFiVkI"
-    crossorigin: "anonymous"
-    onload: renderMathInElement(document.body);
 ---
 
 ## Heading 2
@@ -24,6 +12,28 @@ extra_js:
 Line with **bold** text.
 
 Line with *italicized* text.
+
+Line with ***bold-italicized*** text.
+
+### Math Equation Example
+![](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
+This math is inline $`a^2+b^2=c^2`$.
+
+This is on a separate line
+
+![differentword](https://render.githubusercontent.com/render/math?math=a^2+b^2=c^2)
+
+```math
+a^2+b^2=c^2
+```
+Anotha one
+
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+
+This is another example.
+
+$$ N = \frac{t_{statistic=-1.652}}{0.05}^{2} \cdot 2 \cdot var $$
 
 ### Blockquote Example 1
 
@@ -146,26 +156,6 @@ The example link above will redirect to the following Heading below
 * triceratops
 * stegosaurus
 * brachiosaurus
-
-### Math Equation Example
-![](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
-This math is inline $`a^2+b^2=c^2`$.
-
-This is on a separate line
-
-![differentword](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
-```math
-a^2+b^2=c^2
-```
-Anotha one
-
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
-This is another example.
-
-$$ N = \frac{t_{statistic=-1.652}}{0.05}^{2} \cdot 2 \cdot var $$
 
 
 #### Backslash Escaping
