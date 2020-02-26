@@ -35,7 +35,7 @@ plugins:
   - jekyll-feed
   - jemoji
   
-markdown: kramdown
+markdown: redcarpet
 kramdown:
   math_engine: mathjax
 mathjax: true
