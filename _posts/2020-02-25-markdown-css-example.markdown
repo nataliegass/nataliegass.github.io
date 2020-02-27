@@ -3,8 +3,9 @@ title:  "Markdown CSS Example"
 excerpt: "Best markdown css example ever..."
 date:   2020-02-25
 tags: [gass, markdown, css]
-layout: postcssexample
 ---
+<link rel="stylesheet" type="text/css" media="all" href="custom_css.css" />
+
 
 ## Heading 2
 ### CSS
