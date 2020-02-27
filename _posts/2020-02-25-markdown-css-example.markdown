@@ -9,7 +9,7 @@ tags: [gass, markdown, css]
 
 ## Heading 2
 ### CSS
-#### Heading 4
+#### Heading 4 {#indigo}
 
 Line with **bold** text.
 
