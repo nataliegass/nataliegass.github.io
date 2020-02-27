@@ -4,7 +4,7 @@ excerpt: "Best markdown javascript example ever..."
 date:   2020-02-26
 tags: [gass, markdown, javascript]
 ---
-<script src="../../../assets/css/mycustomjs.js" type="application/javascript" media="all"></script>
+<script src="../../../assets/js/mycustomjs.js" type="application/javascript" media="all"></script>
 
 ## Heading 2
 ### JavaScript
