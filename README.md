@@ -5,7 +5,7 @@ sudo gem install jekyll
 jekyll new natalie-katherine-gass
 ```
 
-### Requirements for rendering **emojis*** via markdown...
+### Requirements for rendering ***emojis*** via Markdown...
 1. Add to Gemfile
 ```
 gem 'jemoji'
