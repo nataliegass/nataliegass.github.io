@@ -4,7 +4,7 @@ excerpt: "Best markdown css example ever..."
 date:   2020-02-25
 tags: [gass, markdown, css]
 ---
-<link rel="stylesheet" type="text/css" media="all" href="../../../custom_css.css" />
+<link rel="stylesheet" type="text/css" media="all" href="../../../assets/css/mycustomcss.css" />
 
 
 ## Heading 2
