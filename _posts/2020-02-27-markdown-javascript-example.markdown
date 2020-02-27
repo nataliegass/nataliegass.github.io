@@ -3,7 +3,7 @@ title:  "Markdown JavaScript Example"
 excerpt: "Best markdown javascript example ever..."
 date:   2020-02-27
 tags: [gass, markdown, javascript]
-layout: postJAVASCRIPTexample
+layout: postjavascriptexample
 ---
 
 ## Heading 2

@@ -3,7 +3,7 @@ title:  "Markdown jQuery Example"
 excerpt: "Best markdown jquery example ever..."
 date:   2020-02-27
 tags: [gass, markdown, jquery]
-layout: postJQUERYexample
+layout: postjqueryexample
 ---
 
 ## Heading 2

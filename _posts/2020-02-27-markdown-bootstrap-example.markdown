@@ -3,7 +3,7 @@ title:  "Markdown Bootstap Example"
 excerpt: "Best markdown bootstrap example ever..."
 date:   2020-02-27
 tags: [gass, markdown, bootstrap]
-layout: postBOOTSTRAPexample
+layout: postbootstrapexample
 ---
 
 ## Heading 2

@@ -3,7 +3,7 @@ title:  "Markdown CSS Example"
 excerpt: "Best markdown css example ever..."
 date:   2020-02-27
 tags: [gass, markdown, css]
-layout: postCSSexample
+layout: postcssexample
 ---
 
 ## Heading 2
