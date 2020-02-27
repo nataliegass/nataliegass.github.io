@@ -1,8 +1,9 @@
 ---
-title:  "Markdown Example"
-excerpt: "Best markdown example ever..."
-date:   2020-02-24
-tags: [gass, markdown]
+title:  "Markdown JavaScript Example"
+excerpt: "Best markdown javascript example ever..."
+date:   2020-02-27
+tags: [gass, markdown, javascript]
+layout: postJAVASCRIPTexample
 ---
 
 ## Heading 2

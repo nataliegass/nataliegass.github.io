@@ -36,11 +36,6 @@ plugins:
   - jemoji
   
 encoding: "utf-8"
-  
-markdown: kramdown
-kramdown:
-  math_engine: mathjax
-mathjax: true
 
 # Exclude from processing.
 # The following items will not be processed, by default.
