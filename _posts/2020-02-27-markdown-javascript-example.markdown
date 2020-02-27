@@ -7,7 +7,7 @@ layout: postjavascriptexample
 ---
 
 ## Heading 2
-### Heading 3
+### JavaScript
 #### Heading 4
 
 Line with **bold** text.

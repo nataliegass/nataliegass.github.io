@@ -1,13 +1,13 @@
 ---
-title:  "Markdown CSS Example"
-excerpt: "Best markdown css example ever..."
+title:  "Markdown jQuery Example"
+excerpt: "Best markdown jquery example ever..."
 date:   2020-02-27
-tags: [gass, markdown, css]
-layout: postcssexample
+tags: [gass, markdown, jquery]
+layout: postjqueryexample
 ---
 
 ## Heading 2
-### CSS
+### jQuery
 #### Heading 4
 
 Line with **bold** text.
