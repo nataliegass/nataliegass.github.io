@@ -1,4 +1,5 @@
 ---
+layout: post
 title:  "Markdown Example"
 excerpt: "Best markdown example ever..."
 date:   2020-02-24
