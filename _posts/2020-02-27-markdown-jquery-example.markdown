@@ -5,7 +5,7 @@ date:   2020-02-27
 tags: [gass, markdown, jquery]
 layout: postjqueryexample
 ---
-<script src="../../../assets/js/mycustomjs.js" type="application/javascript" media="all"></script>
+<script src="../../../assets/js/mycustomjquery.js" type="application/javascript" media="all"></script>
 
 ## Heading 2
 ### jQuery
