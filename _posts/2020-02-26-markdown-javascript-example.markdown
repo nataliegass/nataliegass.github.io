@@ -1,7 +1,7 @@
 ---
 title:  "Markdown JavaScript Example"
 excerpt: "Best markdown javascript example ever..."
-date:   2020-02-27
+date:   2020-02-26
 tags: [gass, markdown, javascript]
 layout: postjavascriptexample
 ---

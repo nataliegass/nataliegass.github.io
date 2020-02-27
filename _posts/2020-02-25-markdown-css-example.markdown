@@ -1,13 +1,13 @@
 ---
-title:  "Markdown Bootstap Example"
-excerpt: "Best markdown bootstrap example ever..."
-date:   2020-02-27
-tags: [gass, markdown, bootstrap]
-layout: postbootstrapexample
+title:  "Markdown CSS Example"
+excerpt: "Best markdown css example ever..."
+date:   2020-02-25
+tags: [gass, markdown, css]
+layout: postcssexample
 ---
 
 ## Heading 2
-### Bootstap
+### CSS
 #### Heading 4
 
 Line with **bold** text.
