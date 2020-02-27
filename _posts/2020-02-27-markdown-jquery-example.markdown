@@ -3,7 +3,6 @@ title:  "Markdown jQuery Example"
 excerpt: "Best markdown jquery example ever..."
 date:   2020-02-27
 tags: [gass, markdown, jquery]
-layout: postjqueryexample
 ---
 <script async src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="application/javascript" media="all"></script>
 
