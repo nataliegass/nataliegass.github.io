@@ -16,26 +16,6 @@ Line with *italicized* text.
 
 Line with ***bold-italicized*** text.
 
-### Math Equation Example
-![](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
-This math is inline $`a^2+b^2=c^2`$.
-
-This is on a separate line
-
-![differentword](https://render.githubusercontent.com/render/math?math=a^2+b^2=c^2)
-
-```math
-a^2+b^2=c^2
-```
-Anotha one
-
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-
-This is another example.
-
-$$ N = \frac{t_{statistic=-1.652}}{0.05}^{2} \cdot 2 \cdot var $$
-
 ### Blockquote Example 1
 
 > This text represents a blockquote.
@@ -158,6 +138,10 @@ The example link above will redirect to the following Heading below
 * stegosaurus
 * brachiosaurus
 
+### Math Equation Example 1
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+### Math Equation Example 2
+![](https://render.githubusercontent.com/render/math?math=a^2+b^2=c^2)
 
 #### Backslash Escaping
 \\
