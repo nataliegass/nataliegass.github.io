@@ -95,6 +95,11 @@ code
 ### Striketrough Example
 ~~The world is flat.~~ We now know that the world is round.
 
+### Math Equation Example 1
+![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
+### Math Equation Example 2
+![](https://render.githubusercontent.com/render/math?math=a^2+b^2=c^2)
+
 ### Emoji Example
 Gone camping! :tent: Be back soon.
 
@@ -140,11 +145,6 @@ The example link above will redirect to the following Heading below
 * triceratops
 * stegosaurus
 * brachiosaurus
-
-### Math Equation Example 1
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-### Math Equation Example 2
-![](https://render.githubusercontent.com/render/math?math=a^2+b^2=c^2)
 
 #### Backslash Escaping
 \\
