@@ -154,9 +154,9 @@ That is so funny! :joy:
 
 
 ### Task List Example
-[ ] Write the press releasse
-[x] Update the website
-[ ] Contact the media
+- [ ] Write the press releasse
+- [x] Update the website
+- [ ] Contact the media
 
 ### Website Link Example
 This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/). 
