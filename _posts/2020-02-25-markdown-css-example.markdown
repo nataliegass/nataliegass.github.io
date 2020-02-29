@@ -192,6 +192,10 @@ This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeograp
 #### Pipe Escaping
 \|
 
+### Embed YouTube Example
+
+[![WE LOVE THE EARTH](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
+
 ### Horizontal Line Example 1
 ***
 ### Horizontal Line Example 2
@@ -202,7 +206,3 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
-
-### Embed YouTube Example
-
-[![WE LOVE THE EARTH](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
