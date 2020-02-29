@@ -1,11 +1,3 @@
----
-layout: post
-title:  "Markdown Example"
-excerpt: "Best markdown example ever..."
-date:   2020-02-24
-tags: [gass, markdown]
----
-
 ## Heading 2
 ### Heading 3
 #### Heading 4
@@ -15,6 +7,33 @@ Line with **bold** text.
 Line with *italicized* text.
 
 Line with ***bold-italicized*** text.
+
+### ID Tag Link Example
+This hyperlink: [dinosaurs](#custom-dinosaurs-id)    
+Will direct you to the specifed ID Tag in your Markdown file.
+
+God created the dinosaurs. 
+How incredible are the dinos that some were big and some were small.
+Some dinosaurs ate plants and some ate other dinosaurs.
+The dinosaur ecosystem must have been quite complex.
+Can you imagine how incredible the relation between plant and dino and one dino to the next must have been?
+God is very cool.
+
+
+### Dinosaurs {#custom-dinosaurs-id}
+* Jurassic 
+  * Brachiosaurus
+  * Stegosaurus
+  * Allosaurus 
+* Cretaceous
+  * Hypsilophodon
+  * Iguanodon
+  * Psittacosaurus
+* Tertiary
+  * Velociraptor
+  * Triceratops
+  * Shantungosaurus 
+  * Tyrannosaurus
 
 ### Blockquote Example 1
 
@@ -102,16 +121,10 @@ Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
 
-Requirements to be able to render **emojis*** via markdown...
-1. Add to Gemfile
-```
-gem 'jemoji'
-```
-2. Add to _config.yml
-```
-plugins:
-  - jemoji
-```
+:earth_africa: We love the earth. 
+
+:two_hearts: Always give love. 
+
 
 ### Task List Example
 - [ ] Write the press releasse
@@ -119,29 +132,14 @@ plugins:
 - [ ] Contact the media
 
 ### Website Link Example
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/). 
 
 ### Website Link (with Text) Example
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers").
 
 ### Email Link Example
 <nk.the.environmentalist@gmail.com>
 
-### ID Tag Link Example
-This hyperlink: [dinosaurs](#custom-dinosaurs-id)    
-Will direct
-The user
-To the specifed ID Tag
-
-The example link above will redirect to the following Heading below
-
-### Dinosaurs {#custom-dinosaurs-id}
-* tyrannosaurus rex
-* pterodactyl
-* velociraptor
-* triceratops
-* stegosaurus
-* brachiosaurus
 
 #### Backslash Escaping
 \\
@@ -180,3 +178,4 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
+
