@@ -1,11 +1,3 @@
----
-layout: post
-title:  "Markdown Example"
-excerpt: "Best markdown example ever..."
-date:   2020-02-24
-tags: [gass, markdown]
----
-
 ## Heading 2
 ### Heading 3
 #### Heading 4
@@ -202,3 +194,4 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
+
