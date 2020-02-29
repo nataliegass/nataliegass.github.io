@@ -72,7 +72,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Indent paragraphs to include them in the footnote.
 
-    `{ my code }`
+    ```Sample text inside a code block within the footnote.```
 
     Add as many paragraphs as you like.
 
@@ -119,16 +119,16 @@ code
 
 ### Code Block Example 3 (Python)
 ```python
-def largest(array_of_numbers,n):
+def largest(array_of_numbers):
 	max = array_of_numbers[0]
-	for i in range(1, n): 
+	for i in range(1, len(array_of_numbers)): 
 		if array_of_numbers[i] > max:
 			max = array_of_numbers[i] 
 	return max
 
 
 x = [23, 42, 765, 64, 109, 413]
-answer = largest(x,len(x)) 
+answer = largest(x,len(x))
 print ("Largest number in given array is: ", answer)
 ```
 
@@ -156,14 +156,13 @@ That is so funny! :joy:
 - [ ] Contact the media
 
 ### Website Link Example
-This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/). 
+[Nat Geo](https://www.nationalgeographic.com/)
 
 ### Website Link (with Text) Example
-This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers").
+[Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers.")
 
 ### Email Link Example
 <nk.the.environmentalist@gmail.com>
-
 
 #### Backslash Escaping
 \\
