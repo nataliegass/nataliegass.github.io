@@ -118,7 +118,9 @@ code
   "lastName": "Smith",
   "age": 25
 }
+```
 
+### Code Block Example 3 (Python)
 ```python
 def largest(array_of_numbers,n):
   max = array_of_numbers[0]
@@ -133,8 +135,6 @@ x = [23, 42, 765, 64, 109, 413]
 answer = largest(x,len(x))
 print ("Largest number in given array is: ", answer)
 ```
-
-### Code Block Example 
 
 ### Striketrough Example
 ~~The world is flat.~~ We now know that the world is round.
@@ -206,3 +206,7 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
+
+### Embed YouTube Example
+
+[![WE LOVE THE EARTH](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
