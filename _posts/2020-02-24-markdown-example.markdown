@@ -16,6 +16,33 @@ Line with *italicized* text.
 
 Line with ***bold-italicized*** text.
 
+### ID Tag Link Example
+This hyperlink: [dinosaurs](#custom-dinosaurs-id)    
+Will direct you to the specifed ID Tag in your Markdown file.
+
+God created the dinosaurs. 
+How incredible are the dinos that some were big and some were small.
+Some dinosaurs ate plants and some ate other dinosaurs.
+The dinosaur ecosystem must have been quite complex.
+Can you imagine how incredible the relation between plant and dino and one dino to the next must have been?
+God is very cool.
+
+
+### Dinosaurs {#custom-dinosaurs-id}
+* Jurassic 
+  * Brachiosaurus
+  * Stegosaurus
+  * Allosaurus 
+* Cretaceous
+  * Hypsilophodon
+  * Iguanodon
+  * Psittacosaurus
+* Tertiary
+  * Velociraptor
+  * Triceratops
+  * Shantungosaurus 
+  * Tyrannosaurus
+
 ### Blockquote Example 1
 
 > This text represents a blockquote.
@@ -24,7 +51,7 @@ Line with ***bold-italicized*** text.
 
 > Dorothy followed her through many of the beautiful rooms in her castle.
 >
->> The Witch bade her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
+>> The Witch made her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
 
 ### Blockquote Example 3
 
@@ -87,7 +114,23 @@ code
   "lastName": "Smith",
   "age": 25
 }
+
+```python
+def largest(array_of_numbers,n):
+  max = array_of_numbers[0]
+
+	for i in range(1, n): 
+		if array_of_numbers[i] > max:
+			max = array_of_numbers[i] 
+	return max
+
+
+x = [23, 42, 765, 64, 109, 413]
+answer = largest(x,len(x))
+print ("Largest number in given array is: ", answer)
 ```
+
+### Code Block Example 
 
 ### Striketrough Example
 ~~The world is flat.~~ We now know that the world is round.
@@ -102,46 +145,25 @@ Gone camping! :tent: Be back soon.
 
 That is so funny! :joy:
 
-Requirements to be able to render **emojis*** via markdown...
-1. Add to Gemfile
-```
-gem 'jemoji'
-```
-2. Add to _config.yml
-```
-plugins:
-  - jemoji
-```
+:earth_africa: We love the earth. 
+
+:two_hearts: Always give love. 
+
 
 ### Task List Example
-- [ ] Write the press releasse
-- [x] Update the website
-- [ ] Contact the media
+[ ] Write the press releasse
+[x] Update the website
+[ ] Contact the media
 
 ### Website Link Example
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com).
+This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/). 
 
 ### Website Link (with Text) Example
-My favorite search engine is [Duck Duck Go](https://duckduckgo.com "The best search engine for privacy").
+This link goes to Nat Geo. You're welcome. [Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers").
 
 ### Email Link Example
 <nk.the.environmentalist@gmail.com>
 
-### ID Tag Link Example
-This hyperlink: [dinosaurs](#custom-dinosaurs-id)    
-Will direct
-The user
-To the specifed ID Tag
-
-The example link above will redirect to the following Heading below
-
-### Dinosaurs {#custom-dinosaurs-id}
-* tyrannosaurus rex
-* pterodactyl
-* velociraptor
-* triceratops
-* stegosaurus
-* brachiosaurus
 
 #### Backslash Escaping
 \\
