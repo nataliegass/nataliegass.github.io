@@ -120,15 +120,15 @@ code
 ### Code Block Example 3 (Python)
 ```python
 def largest(array_of_numbers,n):
-  max = array_of_numbers[0]
-  for i in range(1, n): 
+	max = array_of_numbers[0]
+	for i in range(1, n): 
 		if array_of_numbers[i] > max:
 			max = array_of_numbers[i] 
 	return max
 
 
 x = [23, 42, 765, 64, 109, 413]
-answer = largest(x,len(x))
+answer = largest(x,len(x)) 
 print ("Largest number in given array is: ", answer)
 ```
 
