@@ -137,7 +137,7 @@ print ("Largest number in given array is: ", answer)
 ### Math Equation Example 1
 ![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
 ### Math Equation Example 2
-![](https://render.githubusercontent.com/render/math?math=a^2 + b^2 = c^2)
+![](https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} = x%2B1)
 
 ### Emoji Example
 Gone camping! :tent: Be back soon.
