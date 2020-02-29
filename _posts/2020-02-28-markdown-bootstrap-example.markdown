@@ -130,7 +130,7 @@ def largest(array_of_numbers):
 
 
 x = [23, 42, 765, 64, 109, 413]
-answer = largest(x,len(x))
+answer = largest(x)
 print ("Largest number in given array is: ", answer)
 ```
 
