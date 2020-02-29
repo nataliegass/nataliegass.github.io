@@ -120,8 +120,7 @@ code
 ```python
 def largest(array_of_numbers,n):
   max = array_of_numbers[0]
-
-	for i in range(1, n): 
+  for i in range(1, n): 
 		if array_of_numbers[i] > max:
 			max = array_of_numbers[i] 
 	return max
