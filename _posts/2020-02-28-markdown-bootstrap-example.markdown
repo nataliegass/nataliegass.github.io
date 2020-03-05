@@ -163,6 +163,9 @@ That is so funny! :joy:
 ### Website Link (with Text) Example
 [Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers.")
 
+### Button Example
+[button url="http://www.google.com"]
+
 ### Email Link Example
 <nk.the.environmentalist@gmail.com>
 
