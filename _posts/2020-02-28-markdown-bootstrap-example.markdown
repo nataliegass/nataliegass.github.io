@@ -1,5 +1,5 @@
 ---
-title:  "Markdown Bootstap Example"
+title:  "Markdown Bootstrap Example"
 excerpt: "Best markdown bootstrap example ever..."
 date:   2020-02-28
 tags: [gass, markdown, bootstrap]
