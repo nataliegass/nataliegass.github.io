@@ -15,6 +15,60 @@ Line with *italicized* text.
 
 Line with ***bold-italicized*** text.
 
+| Markdown Raw                                                     | Markdown Formatted                                               |
+| :---                                                             |                                                             ---: |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+| Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
+|                                                                  |                                                                  |
+| Line with \*italicized\* text.                                   | Line with *italicized* text.                                     |
+|                                                                  |                                                                  |
+| Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+| Strikethrough Example                                            | Strikethrough Example                                            |
+| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+| Website Link Example                                             | Website Link Example                                             |
+| \[Nat Geo\](https://www.nationalgeographic.com/)                 | [Nat Geo](https://www.nationalgeographic.com/)                   |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+| Website Link Example (with Text)                                 | Website Link Example (with Text)                                 |
+| \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+| Ordered List Example                                             | Ordered List Example                                             |
+| Ordered List Example                                             | Ordered List Example                                             |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+
+
+### Website Link Example
+[Nat Geo](https://www.nationalgeographic.com/)
+
+### Website Link (with Text) Example
+[Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers.")
+
+### Email Link Example
+<nk.the.environmentalist@gmail.com>
+
+
+### Table Example
+
+| Syntax      | Description | Test Text     |
+| :---        |    :----:   |          ---: |
+| Header      | Title       | Here's this   |
+| Paragraph   | Text        | And more      |
+
+
 | Markdown Raw                                 | Markdown Formatted                           |
 | :---                                         |                                         ---: |
 |                                              |                                              |
@@ -43,45 +97,7 @@ Line with ***bold-italicized*** text.
 |     - First Sub-Item                         |     - First Sub-Item                         |
 |     - Second SubItem                         |     - Second Sub-Item                        |
 | - Fourth Item                                | - Fourth Item                                |
-| - Fifth Item                                 | - Fifth Item                                 ||                                              |                                              |
-|                                              |                                              |
-| Strikethrough Example                        | Strikethrough Example                        |
-| \~\~The world is flat.\~\~ JK. Lol.          | ~~The world is flat.~~ JK. Lol               |
-|                                              |                                              |
-|                                              |                                              |
-| Ordered List Example                         | Ordered List Example                         |
-|                                              |                                              |
-|                                              |                                              |
-| Ordered List Example                         | Ordered List Example                         |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              
-
-
-
-
-### Table Example
-
-| Syntax      | Description | Test Text     |
-| :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And more      |
-
-
-| Markdown Raw                                 | Markdown Formatted                           |
-| :---                                         |                                         ---: |
-|                                              |                                              |
-|                                              |                                              |
-| Line with \*\*bold\*\* text.                 | Line with **bold** text.                     |
-|                                              |                                              |
-| Line with \*italicized\* text.               | Line with *italicized* text.                 |
-|                                              |                                              |
-| Line with \*\*\*bold-italicized\*\*\* text.  | Line with ***bold-italicized*** text.        |
-|                                              |                                              |
+| - Fifth Item                                 | - Fifth Item                                 |
 |                                              |                                              |
 | Blockquote Example 1                         | Blockquote Example 1                         |
 | \> This text represents a blockquote.        | > This text represents a block quote         |
@@ -144,14 +160,7 @@ Here's a simple footnote,[^1] and here's a longer one.[^bignote]
 
     Add as many paragraphs as you like.
 
-### Website Link Example
-[Nat Geo](https://www.nationalgeographic.com/)
 
-### Website Link (with Text) Example
-[Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers.")
-
-### Email Link Example
-<nk.the.environmentalist@gmail.com>
 
 #### Backslash Escaping
 \\
