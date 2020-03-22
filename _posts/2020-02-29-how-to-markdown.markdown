@@ -26,23 +26,6 @@ Line with ***bold-italicized*** text.
 | Line with \*\*\*bold-italicized\*\*\* text.  | Line with ***bold-italicized*** text.        |
 |                                              |                                              |
 |                                              |                                              |
-| Blockquote Example 1                         | Blockquote Example 1                         |
-| \> This text represents a blockquote.        | > This text represents a block quote         |
-|                                              |                                              |
-| Blockquote Example 2                         | Blockquote Example 2                         |
-| \> This text represents a blockquote.        | > This text represents a block quote         |
-| \>                                           | >                                            |
-| \>\> The Witch made her clean the cauldron.  | >> The Witch made her clean the cauldron.    ||                                              |                                              |
-| Blockquote Example 3                         | Blockquote Example 3                         |
-| \> \#\#\#\# The quarterly results look great!| > #### The quarterly results look great!     |
-| \>                                           | >                                            |
-| \> \- Revenue was off the chart.             | > - Revenue was off the chart.               |
-| \> \- The line was off the chart.            | > - The line was off the chart.              |
-| \>                                           | >                                            |
-| \> \*Everything\* according to \*\*plan\*\*. | > *Everything* according to **plan**.        |
-| \>                                           | >                                            |
-|                                              |                                              |
-|                                              |                                              |
 | Ordered List Example                         | Ordered List Example                         |
 | 1. First Item                                | 1. First Item                                |
 | 2. Second Item                               | 2. Second Item                               |
@@ -62,6 +45,8 @@ Line with ***bold-italicized*** text.
 | - Fourth Item                                | - Fourth Item                                |
 | - Fifth Item                                 | - Fifth Item                                 ||                                              |                                              |
 |                                              |                                              |
+| Strikethrough Example                        | Strikethrough Example                        |
+| \~\~The world is flat.\~\~ JK. Lol.          | ~~The world is flat.~~ JK. Lol               |
 |                                              |                                              |
 |                                              |                                              |
 | Ordered List Example                         | Ordered List Example                         |
@@ -74,7 +59,7 @@ Line with ***bold-italicized*** text.
 |                                              |                                              |
 |                                              |                                              |
 |                                              |                                              |
-|                                              |                                              |
+|                                              |                                              
 
 
 
@@ -85,6 +70,35 @@ Line with ***bold-italicized*** text.
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
+
+
+| Markdown Raw                                 | Markdown Formatted                           |
+| :---                                         |                                         ---: |
+|                                              |                                              |
+|                                              |                                              |
+| Line with \*\*bold\*\* text.                 | Line with **bold** text.                     |
+|                                              |                                              |
+| Line with \*italicized\* text.               | Line with *italicized* text.                 |
+|                                              |                                              |
+| Line with \*\*\*bold-italicized\*\*\* text.  | Line with ***bold-italicized*** text.        |
+|                                              |                                              |
+|                                              |                                              |
+| Blockquote Example 1                         | Blockquote Example 1                         |
+| \> This text represents a blockquote.        | > This text represents a block quote         |
+|                                              |                                              |
+| Blockquote Example 2                         | Blockquote Example 2                         |
+| \> This text represents a blockquote.        | > This text represents a block quote         |
+| \>                                           | >                                            |
+| \>\> The Witch made her clean the cauldron.  | >> The Witch made her clean the cauldron.    ||                                              |                                              |
+| Blockquote Example 3                         | Blockquote Example 3                         |
+| \> \#\#\#\# The quarterly results look great!| > #### The quarterly results look great!     |
+| \>                                           | >                                            |
+| \> \- Revenue was off the chart.             | > - Revenue was off the chart.               |
+| \> \- The line was off the chart.            | > - The line was off the chart.              |
+| \>                                           | >                                            |
+| \> \*Everything\* according to \*\*plan\*\*. | > *Everything* according to **plan**.        |
+| \>                                           | >                                            |
+|                                              |                                              |
 
 ### Code Block Example 1
 ```
