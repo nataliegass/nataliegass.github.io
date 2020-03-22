@@ -62,7 +62,6 @@ Line with ***bold-italicized*** text.
 | - Fourth Item                                | - Fourth Item                                |
 | - Fifth Item                                 | - Fifth Item                                 ||                                              |                                              |
 |                                              |                                              |
-| Table Example                         | Table Example                         |
 |                                              |                                              |
 |                                              |                                              |
 | Ordered List Example                         | Ordered List Example                         |
