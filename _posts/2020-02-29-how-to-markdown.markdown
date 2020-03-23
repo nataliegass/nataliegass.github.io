@@ -53,110 +53,50 @@ Line with ***bold-italicized*** text.
 
 
 
-| Markdown Raw                                                                 | Markdown Formatted                                                           |
-| :---                                                                         | :---                                                                         |
-|                                                                              |                                                                              |
-|                                                                              |                                                                              |
-| Line with \*\*bold\*\* text.                                                 | Line with **bold** text.                                                     |
-|                                                                              |                                                                              |
-| Line with \*italicized\* text.                                               | Line with *italicized* text.                                                 |
-|                                                                              |                                                                              |
-| Line with \*\*\*bold-italicized\*\*\* text.                                  | Line with ***bold-italicized*** text.                                        |
-|                                                                              |                                                                              |
-|                                                                              |                                                                              |
-| Hi<br>helloworld<br>Bye                                                      | Hi<br>helloworld<br>Bye                                                      |
-|                                                                              |                                                                              |
-| WORKING<br>&#9658;<br>WORKING                                                | WORKING<br>&#9658;<br>WORKING                                                |
-|                                                                              |                                                                              |
-| Play<br>&#9658;<br>Play                                                      | Play<br>&#9658;<br>Play                                                      |
-|                                                                              |                                                                              |
-| Space<br>&#0001;<br>Space                                                    | Sapce<br>&#0001;<br>Space                                                    |
-|                                                                              |                                                                              |
-| WORKING<br>&#9658;<br>WORKING                                                | WORKING<br>&#9658;<br>WORKING                                                |
-|                                                                              |                                                                              |
-|                                                                              |                                                                              |
-| Ordered List Example                                                         | Ordered List Example                                                         |
-| 1. a                                                                         | 1. a                                                                         |
-| 2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y | 2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y |
-| 3. c                                                                         | 3. c                                                                         |
-| 4. d                                                                         | 4. d                                                                         |
-|                                                                              |                                                                              |
-|                                                                              |                                                                              |
-|                                                                              |                                                                              |
-|                                                                              |                                                                              |
+| Markdown Raw                                                                                         | Markdown Formatted                                                                                   |
+| :---                                                                                                 | :---                                                                                                 |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+| Line with \*\*bold\*\* text.                                                                         | Line with **bold** text.                                                                             |
+|                                                                                                      |                                                                                                      |
+| Line with \*italicized\* text.                                                                       | Line with *italicized* text.                                                                         |
+|                                                                                                      |                                                                                                      |
+| Line with \*\*\*bold-italicized\*\*\* text.                                                          | Line with ***bold-italicized*** text.                                                                |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      | Ordered List Example                                                                                 |
+| 1. a<br>2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y<br>3. c<br>4. d | 1. a<br>2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y<br>3. c<br>4. d |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
+|                                                                                                      |                                                                                                      |
 
 ### Everything Else Below
 
 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
-### Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below Unstable Table Below 
 
-
-
-| Markdown Raw                                                     | Markdown Formatted                                               |
-| :---                                                             | :---                                                             |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
-|                                                                  |                                                                  |
-| Line with \*italicized\* text.                                   | Line with *italicized* text.                                     |
-|                                                                  |                                                                  |
-| Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Ordered List Example                                             | Ordered List Example                                             |
-| 1. First Item                                                    | 1. First Item                                                    |
-| 2. Second Item                                                   | 2. Second Item                                                   |
-| 3. Third Item                                                    | 3. Third Item                                                    |
-|     1. First Sub-Item                                            |     1. First Sub-Item                                            |
-|     2. Second SubItem                                            |     2. Second Sub-Item                                           |
-| 4. Fourth Item                                                   | 6. Fourth Item                                                   |
-| 5. Fifth Item                                                    | 5. Fifth Item                                                    |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Unordered List Example                                           | Unordered List Example                                           |
-| - First Item                                                     | - First Item                                                     |
-| - Second Item                                                    | - Second Item                                                    |
-| - Third Item                                                     | - Third Item                                                     |
-|     - First Sub-Item                                             |     - First Sub-Item                                             |
-|     - Second SubItem                                             |     - Second Sub-Item                                            |
-| - Fourth Item                                                    | - Fourth Item                                                    |
-| - Fifth Item                                                     | - Fifth Item                                                     |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Backslash Escaping                                               | Backslash Escaping                                               |
-| \\\\                                                             | \\                                                               |
-|                                                                  |                                                                  |
-| Asterisk Escaping                                                | Asterisk Escaping                                                |
-| \\\*                                                             | \*                                                               ||                                                                  |                                                                  |
-| Underscore Escaping                                              | Underscore Escaping                                              |
-| \\\_                                                             | \_                                                               ||                                                                  |                                                                  |
-| Curly Brackets Escaping                                          | Backslash Escaping                                               |
-| \\\{                                                             | \{                                                               |
-| \\\}                                                             | \}                                                               |
-|                                                                  |                                                                  |
-| Square Brackets Escaping                                         | Backslash Escaping                                               |
-| \\\[                                                             | \[                                                               |
-| \\\]                                                             | \]                                                               ||                                                                  |                                                                  |
-| Plus Sign Escaping                                               | Plus Sign Escaping                                               |
-| \\\+                                                             | \+                                                               |
-|                                                                  |                                                                  |
-| Hyphen Escaping                                                  | Hyphen Escaping                                                  |
-| \\\-                                                             | \-                                                               ||                                                                  |                                                                  |
-| Exclamation Escaping                                             | Exclamation Escaping                                             |
-| \\\!                                                             | \!                                                               |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
+| Markdown Raw                                 | Markdown Formatted                           |
+| :---                                         |                                         ---: |
+|                                              |                                              |
+|                                              |                                              |
+| Line with \*\*bold\*\* text.                 | Line with **bold** text.                     |
+|                                              |                                              |
+| Line with \*italicized\* text.               | Line with *italicized* text.                 |
+|                                              |                                              |
+| Line with \*\*\*bold-italicized\*\*\* text.  | Line with ***bold-italicized*** text.        |
+|                                              |                                              |
+|                                              |                                              |
+|                                              |                                              |
+|                                              |                                              |
+|                                              |                                              |
+|                                              |                                              |
+|                                              |                                              |
+|                                              |                                              |
 
 
 ### Website Link Example
@@ -176,53 +116,6 @@ Line with ***bold-italicized*** text.
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-
-| Markdown Raw                                 | Markdown Formatted                           |
-| :---                                         |                                         ---: |
-|                                              |                                              |
-|                                              |                                              |
-| Line with \*\*bold\*\* text.                 | Line with **bold** text.                     |
-|                                              |                                              |
-| Line with \*italicized\* text.               | Line with *italicized* text.                 |
-|                                              |                                              |
-| Line with \*\*\*bold-italicized\*\*\* text.  | Line with ***bold-italicized*** text.        |
-|                                              |                                              |
-|                                              |                                              |
-| Ordered List Example                         | Ordered List Example                         |
-| 1. First Item                                | 1. First Item                                |
-| 2. Second Item                               | 2. Second Item                               |
-| 3. Third Item                                | 3. Third Item                                |
-|     1. First Sub-Item                        |     1. First Sub-Item                        |
-|     2. Second SubItem                        |     2. Second Sub-Item                       |
-| 4. Fourth Item                               | 6. Fourth Item                               |
-| 5. Fifth Item                                | 5. Fifth Item                                |
-|                                              |                                              |
-|                                              |                                              |
-| Unordered List Example                       | Unordered List Example                       |
-| - First Item                                 | - First Item                                 |
-| - Second Item                                | - Second Item                                |
-| - Third Item                                 | - Third Item                                 |
-|     - First Sub-Item                         |     - First Sub-Item                         |
-|     - Second SubItem                         |     - Second Sub-Item                        |
-| - Fourth Item                                | - Fourth Item                                |
-| - Fifth Item                                 | - Fifth Item                                 |
-|                                              |                                              |
-| Blockquote Example 1                         | Blockquote Example 1                         |
-| \> This text represents a blockquote.        | > This text represents a block quote         |
-|                                              |                                              |
-| Blockquote Example 2                         | Blockquote Example 2                         |
-| \> This text represents a blockquote.        | > This text represents a block quote         |
-| \>                                           | >                                            |
-| \>\> The Witch made her clean the cauldron.  | >> The Witch made her clean the cauldron.    ||                                              |                                              |
-| Blockquote Example 3                         | Blockquote Example 3                         |
-| \> \#\#\#\# The quarterly results look great!| > #### The quarterly results look great!     |
-| \>                                           | >                                            |
-| \> \- Revenue was off the chart.             | > - Revenue was off the chart.               |
-| \> \- The line was off the chart.            | > - The line was off the chart.              |
-| \>                                           | >                                            |
-| \> \*Everything\* according to \*\*plan\*\*. | > *Everything* according to **plan**.        |
-| \>                                           | >                                            |
-|                                              |                                              |
 
 ### Code Block Example 1
 ```
