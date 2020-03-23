@@ -38,6 +38,10 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Website Link Example (with Text)                                 | Website Link Example (with Text)                                 |
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 
 
 
