@@ -41,11 +41,11 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Code Block Example                                               | Code Block Example                                               |
-| ```                                                              | ```                                                              |
+| \`\`\`                                                           | \`\`\`                                                           |
 | lines                                                            | lines                                                            |
 | of                                                               | of                                                               |
 | text                                                             | text                                                             |
-| ```                                                              | ```                                                              ||                                                                  |                                                                  |
+| \`\`\`                                                           | \`\`\`                                                           ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
