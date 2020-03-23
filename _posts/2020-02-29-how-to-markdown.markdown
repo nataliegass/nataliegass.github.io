@@ -38,12 +38,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Website Link Example (with Text)                                 | Website Link Example (with Text)                                 |
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Code Block Example                                               | Code Block Example                                               |
-| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   ||                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
+
 
 
 ### Unstable Table Below
