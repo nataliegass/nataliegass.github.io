@@ -45,8 +45,6 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Exclamation Escaping                                             | Exclamation Escaping                                             |
-| \\\!                                                             | \!                                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
 
