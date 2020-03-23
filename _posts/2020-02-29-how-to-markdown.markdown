@@ -16,7 +16,7 @@ Line with *italicized* text.
 Line with ***bold-italicized*** text.
 
 | Markdown Raw                                                     | Markdown Formatted                                               |
-| :---                                                             |                                                             ---: |
+| :---                                                             | :---                                                             |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
@@ -96,7 +96,7 @@ Line with ***bold-italicized*** text.
 
 
 | Markdown Raw                                                     | Markdown Formatted                                               |
-| :---                                                             |                                                             ---: |
+| :---                                                             | :---                                                             |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
