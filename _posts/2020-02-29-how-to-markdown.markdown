@@ -26,6 +26,8 @@ Line with ***bold-italicized*** text.
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 | Strikethrough Example                                            | Strikethrough Example                                            |
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
 |                                                                  |                                                                  |
@@ -38,16 +40,8 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Strikethrough Example                                            | Strikethrough Example                                            |
-| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Test Example                                                     | Test Example                                                     |
-| test test                                                        | test test                                                        ||                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
+| Code Block Example                                               | Code Block Example                                               |
+| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
