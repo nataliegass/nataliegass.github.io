@@ -53,36 +53,37 @@ Line with ***bold-italicized*** text.
 
 
 
-| Markdown Raw                                                     | Markdown Formatted                                               |
-| :---                                                             | :---                                                             |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
-|                                                                  |                                                                  |
-| Line with \*italicized\* text.                                   | Line with *italicized* text.                                     |
-|                                                                  |                                                                  |
-| Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
-|                                                                  |                                                                  |
-| Hi<br>&#9658;<br>Bye                                             | Hi<br>&#9658;<br>Bye                                             |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Ordered List Example                                             | Ordered List Example                                             |
-| 1. Item1                                                         | 1. First Item                                                    |
-| 2. Item2<br>&#32;&#32;&#32;&#32;1. a<br>&#32;&#32;&#32;&#32;2. b | 2. Item2<br>&#32;&#32;&#32;&#32;1. a<br>&#32;&#32;&#32;&#32;2. b |
-| 3. Item3                                                         | 3. Item3                                                         |
-| 4. Item4                                                         | 4. Item4                                                         |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-
+| Markdown Raw                                                                 | Markdown Formatted                                                           |
+| :---                                                                         | :---                                                                         |
+|                                                                              |                                                                              |
+|                                                                              |                                                                              |
+| Line with \*\*bold\*\* text.                                                 | Line with **bold** text.                                                     |
+|                                                                              |                                                                              |
+| Line with \*italicized\* text.                                               | Line with *italicized* text.                                                 |
+|                                                                              |                                                                              |
+| Line with \*\*\*bold-italicized\*\*\* text.                                  | Line with ***bold-italicized*** text.                                        |
+|                                                                              |                                                                              |
+|                                                                              |                                                                              |
+| Hi<br>helloworld<br>Bye                                                      | Hi<br>helloworld<br>Bye                                                      |
+|                                                                              |                                                                              |
+| WORKING<br>&#9658;<br>WORKING                                                | WORKING<br>&#9658;<br>WORKING                                                |
+|                                                                              |                                                                              |
+| Play<br>&#9658;<br>Play                                                      | Play<br>&#9658;<br>Play                                                      |
+|                                                                              |                                                                              |
+| Space<br>&#0001;<br>Space                                                    | Sapce<br>&#0001;<br>Space                                                    |
+|                                                                              |                                                                              |
+| WORKING<br>&#9658;<br>WORKING                                                | WORKING<br>&#9658;<br>WORKING                                                |
+|                                                                              |                                                                              |
+|                                                                              |                                                                              |
+| Ordered List Example                                                         | Ordered List Example                                                         |
+| 1. a                                                                         | 1. a                                                                         |
+| 2. b<br>&#0001;&#0001;&#0001;&#0001;1. x<br>&#0001;&#0001;&#0001;&#0001;2. y | 2. b<br>&#0001;&#0001;&#0001;&#0001;1. x<br>&#0001;&#0001;&#0001;&#0001;2. y |
+| 3. c                                                                         | 3. c                                                                         |
+| 4. d                                                                         | 4. d                                                                         |
+|                                                                              |                                                                              |
+|                                                                              |                                                                              |
+|                                                                              |                                                                              |
+|                                                                              |                                                                              |
 
 ### Everything Else Below
 
