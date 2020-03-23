@@ -66,9 +66,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Ordered List Example                                             | Ordered List Example                                             |
 | 1. First Item                                                    | 1. First Item                                                    |
-| 2. Second Item                                                   | 2. Second Item                                                   |
-|     1. First Sub-Item                                            |     1. First Sub-Item                                            |
-|     2. Second Sub-Item                                           |     2. Second Sub-Item                                           |
+| 2. Second Item<br>    1. Sub-Item1<br>    2. Sub-Item2<br>       | 2. Second Item<br>    1. Sub-Item1<br>    2. Sub-Item2<br>       |
 | 3. Third Item                                                    | 3. Third Item                                                    |
 | 4. Fourth Item                                                   | 4. Fourth Item                                                   |
 |                                                                  |                                                                  |
