@@ -40,9 +40,12 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
+| Code Block Example                                               | Code Block Example                                               |
+| ```                                                              | ```                                                              |
+| lines                                                            | lines                                                            |
+| of                                                               | of                                                               |
+| text                                                             | text                                                             |
+| ```                                                              | ```                                                              ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
