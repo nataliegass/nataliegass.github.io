@@ -40,8 +40,6 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Backslash Escaping                                               | Backslash Escaping                                               |
-| \\\\                                                             | \\                                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
@@ -176,11 +174,6 @@ code
 
 ### Striketrough Example
 ~~The world is flat.~~ We now know that the world is round.
-
-### Math Equation Example 1
-![formula](https://render.githubusercontent.com/render/math?math=e^{i \pi} = -1)
-### Math Equation Example 2
-![](https://render.githubusercontent.com/render/math?math=e^{i %2B\pi} = x%2B1)
 
 ### Emoji Example
 Gone camping! :tent: Be back soon.
