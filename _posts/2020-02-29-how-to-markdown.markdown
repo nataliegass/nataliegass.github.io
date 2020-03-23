@@ -40,8 +40,24 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Asterisk Escaping                                                | Asterisk Escaping                                                |
+| \\\*                                                             | \*                                                               ||                                                                  |                                                                  |
+| Underscore Escaping                                              | Underscore Escaping                                              |
+| \\\_                                                             | \_                                                               ||                                                                  |                                                                  |
+| Curly Brackets Escaping                                          | Backslash Escaping                                               |
+| \\\{                                                             | \{                                                               |
+| \\\}                                                             | \}                                                               |
 |                                                                  |                                                                  |
+| Square Brackets Escaping                                         | Backslash Escaping                                               |
+| \\\[                                                             | \[                                                               |
+| \\\]                                                             | \]                                                               ||                                                                  |                                                                  |
+| Plus Sign Escaping                                               | Plus Sign Escaping                                               |
+| \\\+                                                             | \+                                                               |
 |                                                                  |                                                                  |
+| Hyphen Escaping                                                  | Hyphen Escaping                                                  |
+| \\\-                                                             | \-                                                               ||                                                                  |                                                                  |
+| Exclamation Escaping                                             | Exclamation Escaping                                             |
+| \\\!                                                             | \!                                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
 
