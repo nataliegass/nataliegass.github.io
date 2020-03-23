@@ -41,28 +41,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Backslash Escaping                                               | Backslash Escaping                                               |
-| \\\\                                                             | \\                                                               |
-|                                                                  |                                                                  |
-| Asterisk Escaping                                                | Asterisk Escaping                                                |
-| \\\*                                                             | \*                                                               ||                                                                  |                                                                  |
-| Underscore Escaping                                              | Underscore Escaping                                              |
-| \\\_                                                             | \_                                                               ||                                                                  |                                                                  |
-| Curly Brackets Escaping                                          | Backslash Escaping                                               |
-| \\\{                                                             | \{                                                               |
-| \\\}                                                             | \}                                                               |
-|                                                                  |                                                                  |
-| Square Brackets Escaping                                         | Backslash Escaping                                               |
-| \\\[                                                             | \[                                                               |
-| \\\]                                                             | \]                                                               ||                                                                  |                                                                  |
-| Plus Sign Escaping                                               | Plus Sign Escaping                                               |
-| \\\+                                                             | \+                                                               |
-|                                                                  |                                                                  |
-| Hyphen Escaping                                                  | Hyphen Escaping                                                  |
-| \\\-                                                             | \-                                                               ||                                                                  |                                                                  |
-| Exclamation Escaping                                             | Exclamation Escaping                                             |
-| \\\!                                                             | \!                                                               |
-|                                                                  |                                                                  ||                                                                  |                                                                  |
-|                                                                  |                                                                  |
+| \\\\                                                             | \\                                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
@@ -93,9 +72,6 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Asterisk Escaping                                                | Asterisk Escaping                                                |
 | \\\*                                                             | \*                                                               ||                                                                  |                                                                  |
-| Backtick Escaping                                                | Backtick Escaping                                                |
-| \\\`                                                             | \`                                                               |
-|                                                                  |                                                                  |
 | Underscore Escaping                                              | Underscore Escaping                                              |
 | \\\_                                                             | \_                                                               ||                                                                  |                                                                  |
 | Curly Brackets Escaping                                          | Backslash Escaping                                               |
@@ -106,7 +82,7 @@ Line with ***bold-italicized*** text.
 | \\\[                                                             | \[                                                               |
 | \\\]                                                             | \]                                                               ||                                                                  |                                                                  |
 | Plus Sign Escaping                                               | Plus Sign Escaping                                               |
-| \\\+                                                             | \\                                                               |
+| \\\+                                                             | \+                                                               |
 |                                                                  |                                                                  |
 | Hyphen Escaping                                                  | Hyphen Escaping                                                  |
 | \\\-                                                             | \-                                                               ||                                                                  |                                                                  |
