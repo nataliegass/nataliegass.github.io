@@ -40,8 +40,24 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Ordered List Example                                             | Ordered List Example                                             |
+| 1. First Item                                                    | 1. First Item                                                    |
+| 2. Second Item                                                   | 2. Second Item                                                   |
+| 3. Third Item                                                    | 3. Third Item                                                    |
+|     1. First Sub-Item                                            |     1. First Sub-Item                                            |
+|     2. Second SubItem                                            |     2. Second Sub-Item                                           |
+| 4. Fourth Item                                                   | 6. Fourth Item                                                   |
+| 5. Fifth Item                                                    | 5. Fifth Item                                                    |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Unordered List Example                                           | Unordered List Example                                           |
+| - First Item                                                     | - First Item                                                     |
+| - Second Item                                                    | - Second Item                                                    |
+| - Third Item                                                     | - Third Item                                                     |
+|     - First Sub-Item                                             |     - First Sub-Item                                             |
+|     - Second SubItem                                             |     - Second Sub-Item                                            |
+| - Fourth Item                                                    | - Fourth Item                                                    |
+| - Fifth Item                                                     | - Fifth Item                                                     ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
@@ -66,24 +82,6 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
-| Ordered List Example                                             | Ordered List Example                                             |
-| 1. First Item                                                    | 1. First Item                                                    |
-| 2. Second Item                                                   | 2. Second Item                                                   |
-| 3. Third Item                                                    | 3. Third Item                                                    |
-|     1. First Sub-Item                                            |     1. First Sub-Item                                            |
-|     2. Second SubItem                                            |     2. Second Sub-Item                                           |
-| 4. Fourth Item                                                   | 6. Fourth Item                                                   |
-| 5. Fifth Item                                                    | 5. Fifth Item                                                    |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Unordered List Example                                           | Unordered List Example                                           |
-| - First Item                                                     | - First Item                                                     |
-| - Second Item                                                    | - Second Item                                                    |
-| - Third Item                                                     | - Third Item                                                     |
-|     - First Sub-Item                                             |     - First Sub-Item                                             |
-|     - Second SubItem                                             |     - Second Sub-Item                                            |
-| - Fourth Item                                                    | - Fourth Item                                                    |
-| - Fifth Item                                                     | - Fifth Item                                                     |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Backslash Escaping                                               | Backslash Escaping                                               |
