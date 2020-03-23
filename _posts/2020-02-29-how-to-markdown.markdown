@@ -42,6 +42,10 @@ Line with ***bold-italicized*** text.
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Test Example                                                     | Test Example                                                     |
+| test \& test                                                     | test \& test                                                     ||                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
