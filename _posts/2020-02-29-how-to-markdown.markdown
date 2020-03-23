@@ -55,7 +55,7 @@ Line with ***bold-italicized*** text.
 | \\\[                                                             | \[                                                               |
 | \\\]                                                             | \]                                                               ||                                                                  |                                                                  |
 | Plus Sign Escaping                                               | Plus Sign Escaping                                               |
-| \\\+                                                             | \\                                                               |
+| \\\+                                                             | \+                                                               |
 |                                                                  |                                                                  |
 | Hyphen Escaping                                                  | Hyphen Escaping                                                  |
 | \\\-                                                             | \-                                                               ||                                                                  |                                                                  |
