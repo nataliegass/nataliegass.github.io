@@ -70,7 +70,7 @@ Line with ***bold-italicized*** text.
 |                                                                              |                                                                              |
 | Play<br>&#9658;<br>Play                                                      | Play<br>&#9658;<br>Play                                                      |
 |                                                                              |                                                                              |
-| Space<br>&#0000;<br>Space                                                    | Sapce<br>&#0001;<br>Space                                                    |
+| Space<br>&#0096;<br>Space                                                    | Sapce<br>&#0001;<br>Space                                                    |
 |                                                                              |                                                                              |
 | WORKING<br>&#9658;<br>WORKING                                                | WORKING<br>&#9658;<br>WORKING                                                |
 |                                                                              |                                                                              |
