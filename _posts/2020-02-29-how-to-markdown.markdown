@@ -27,6 +27,8 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
+|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Strikethrough Example                                            | Strikethrough Example                                            |
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
