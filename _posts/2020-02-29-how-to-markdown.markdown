@@ -44,12 +44,6 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Code Block Example                                               | Code Block Example                                               |
-| &grave&grave&grave                                               | &grave&grave&grave                                               |
-| lines                                                            | lines                                                            |
-| of                                                               | of                                                               |
-| text                                                             | text                                                             |
-| &grave&grave&grave                                               | &grave&grave&grave                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
