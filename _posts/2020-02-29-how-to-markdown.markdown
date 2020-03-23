@@ -65,10 +65,14 @@ Line with ***bold-italicized*** text.
 |                                                                                                      |                                                                                                      |
 | Line with \*\*\*bold-italicized\*\*\* text.                                                          | Line with ***bold-italicized*** text.                                                                |
 |                                                                                                      |                                                                                                      |
+| Line with \*\*\*bold-italicized\*\*\* text.                                                          | here is some good ass text and some - more text you know                                             |
 |                                                                                                      |                                                                                                      |
 |                                                                                                      |                                                                                                      |
+| Ordered List Example                                                                                 | Ordered List Example                                                                                 |
+| 1. a<br>2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y<br>3. c<br>4. d | 1. a<br>2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y<br>3. c<br>4. d |
 |                                                                                                      |                                                                                                      |
-|                                                                                                      | Ordered List Example                                                                                 |
+|                                                                                                      |                                                                                                      |
+| Unordered List Example                                                                               | Unordered List Example                                                                               |
 | 1. a<br>2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y<br>3. c<br>4. d | 1. a<br>2. b<br>&#8195;&#8195;&#8195;&#8195;1. x<br>&#8195;&#8195;&#8195;&#8195;2. y<br>3. c<br>4. d |
 |                                                                                                      |                                                                                                      |
 |                                                                                                      |                                                                                                      |
