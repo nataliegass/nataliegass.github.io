@@ -29,6 +29,8 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
 |                                                                  |                                                                  |
+| Hi<br>&#9658;<br>Bye                                             | Hi<br>&#9658;<br>Bye                                             |
+|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Strikethrough Example                                            | Strikethrough Example                                            |
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
@@ -68,10 +70,10 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Ordered List Example                                             | Ordered List Example                                             |
-| 1. First Item                                                    | 1. First Item                                                    |
-| 2. Second Item<br>    1. Sub-Item1<br>    2. Sub-Item2<br>       | 2. Second Item<br>    1. Sub-Item1<br>    2. Sub-Item2<br>       |
-| 3. Third Item                                                    | 3. Third Item                                                    |
-| 4. Fourth Item                                                   | 4. Fourth Item                                                   |
+| 1. Item1                                                         | 1. First Item                                                    |
+| 2. Item2<br>&#32;&#32;&#32;&#32;1. a<br>&#32;&#32;&#32;&#32;2. b | 2. Item2<br>&#32;&#32;&#32;&#32;1. a<br>&#32;&#32;&#32;&#32;2. b |
+| 3. Item3                                                         | 3. Item3                                                         |
+| 4. Item4                                                         | 4. Item4                                                         |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
