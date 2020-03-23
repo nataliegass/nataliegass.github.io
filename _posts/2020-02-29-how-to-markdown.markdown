@@ -64,7 +64,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
 |                                                                  |                                                                  |
-| Hi<br>\u0000<br>Bye                                              | Hi<br>\u0000<br>Bye                                              |
+| Hi<br>&#9658;<br>Bye                                             | Hi<br>&#9658;<br>Bye                                             |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Ordered List Example                                             | Ordered List Example                                             |
