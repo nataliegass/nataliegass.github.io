@@ -40,6 +40,11 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 | Exclamation Escaping                                             | Exclamation Escaping                                             |
 | \\\!                                                             | \!                                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
@@ -62,6 +67,9 @@ Line with ***bold-italicized*** text.
 | Line with \*italicized\* text.                                   | Line with *italicized* text.                                     |
 |                                                                  |                                                                  |
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
+|                                                                  |                                                                  |
+| Strikethrough Example                                            | Strikethrough Example                                            |
+| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol.                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
@@ -172,8 +180,6 @@ of
 code
 ```
 
-### Striketrough Example
-~~The world is flat.~~ We now know that the world is round.
 
 ### Emoji Example
 Gone camping! :tent: Be back soon.
