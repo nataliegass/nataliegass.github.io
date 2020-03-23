@@ -70,14 +70,14 @@ Line with ***bold-italicized*** text.
 |                                                                              |                                                                              |
 | Play<br>&#9658;<br>Play                                                      | Play<br>&#9658;<br>Play                                                      |
 |                                                                              |                                                                              |
-| Space<br>&#0001;<br>Space                                                    | Sapce<br>&#0001;<br>Space                                                    |
+| Space<br>&#0000;<br>Space                                                    | Sapce<br>&#0001;<br>Space                                                    |
 |                                                                              |                                                                              |
 | WORKING<br>&#9658;<br>WORKING                                                | WORKING<br>&#9658;<br>WORKING                                                |
 |                                                                              |                                                                              |
 |                                                                              |                                                                              |
 | Ordered List Example                                                         | Ordered List Example                                                         |
 | 1. a                                                                         | 1. a                                                                         |
-| 2. b<br>&#9658;&#9658;&#9658;&#9658;1. x<br>&#9658;&#9658;&#9658;&#9658;2. y | 2. b<br>&#9658;&#9658;&#9658;&#9658;1. x<br>&#9658;&#9658;&#9658;&#9658;2. y |
+| 2. b<br>&#0096;&#0096;&#0096;&#0096;1. x<br>&#0000;&#0000;&#0000;&#0000;2. y | 2. b<br>&#9658;&#9658;&#9658;&#9658;1. x<br>&#9658;&#9658;&#9658;&#9658;2. y |
 | 3. c                                                                         | 3. c                                                                         |
 | 4. d                                                                         | 4. d                                                                         |
 |                                                                              |                                                                              |
