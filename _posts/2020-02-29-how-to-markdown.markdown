@@ -43,7 +43,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Test Example                                                     | Test Example                                                     |
-| test &#9658; test                                                | test &#9658; test                                                ||                                                                  |                                                                  |
+| test \&#9658; test                                               | test \&#9658; test                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
