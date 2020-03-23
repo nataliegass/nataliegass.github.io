@@ -26,8 +26,6 @@ Line with ***bold-italicized*** text.
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
 | Strikethrough Example                                            | Strikethrough Example                                            |
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
 |                                                                  |                                                                  |
@@ -40,12 +38,18 @@ Line with ***bold-italicized*** text.
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Strikethrough Example                                            | Strikethrough Example                                            |
+| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 | Code Block Example                                               | Code Block Example                                               |
-| \`\`\`                                                           | \`\`\`                                                           |
+| &grave&grave&grave                                               | &grave&grave&grave                                               |
 | lines                                                            | lines                                                            |
 | of                                                               | of                                                               |
 | text                                                             | text                                                             |
-| \`\`\`                                                           | \`\`\`                                                           ||                                                                  |                                                                  |
+| &grave&grave&grave                                               | &grave&grave&grave                                               ||                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
