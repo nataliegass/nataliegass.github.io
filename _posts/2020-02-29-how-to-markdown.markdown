@@ -60,6 +60,10 @@ Line with ***bold-italicized*** text.
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 | Ordered List Example                                             | Ordered List Example                                             |
 | 1. First Item                                                    | 1. First Item                                                    |
 | 2. Second Item                                                   | 2. Second Item                                                   |
@@ -297,6 +301,14 @@ _________________
 ### Horizontal Line Example 5
 _________________________
 
+
+1. First Item
+2. Second Item
+3. Third Item
+    1. First Sub-Item
+    2. Second SubItem
+4. Fourth Item
+5. Fifth Item
 
 
 ### Code Block Example 1
