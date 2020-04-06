@@ -47,6 +47,33 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
+
+## Heading 2
+### Heading 3
+#### Heading 4
+
+Line with **bold** text.
+
+Line with *italicized* text.
+
+Line with ***bold-italicized*** text.
+
+## Terminal Commands
+
+| Linux                                                            | Windows                                                          |
+| :---                                                             | :---                                                             |
+|                                                                  |                                                                  |
+| Change Directory                                                 | Change Directory                                                 |
+| cd                                                               | cd                                                               |
+|                                                                  |                                                                  |
+| List Directory                                                   | List Directory                                                   |
+| ls                                                               | dir                                                              |
+|                                                                  |                                                                  |
+| Touch File                                                       | Touch File                                                       |
+| touch foo.txt                                                    | echo. > "foo.txt"                                                |
+|                                                                  |                                                                  |
+
+
 ## Heading 2
 ### Heading 3
 #### Heading 4
