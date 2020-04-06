@@ -36,7 +36,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Email Example                                                    | Email Example                                                    |
-| <nk.the.environmentalist@gmail.com>                              | <nk.the.environmentalist@gmail.com>                              |
+| \<nk.the.environmentalist@gmail.com\>                            | <nk.the.environmentalist@gmail.com>                              |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Website Link Example                                             | Website Link Example                                             |
@@ -102,11 +102,6 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | \#\#\#\#\#\# Heading 6                                           | <h6>Heading 6</h6>                                               |
 
-### Website Link Example
-[Nat Geo](https://www.nationalgeographic.com/)
-
-### Website Link (with Text) Example
-[Nat Geo](https://www.nationalgeographic.com/ "I've always read and admired Nat Geo, their journalists and photographers.")
 
 ### Email Link Example
 <nk.the.environmentalist@gmail.com>
