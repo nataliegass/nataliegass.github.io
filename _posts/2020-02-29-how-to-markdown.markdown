@@ -27,7 +27,6 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
-| <nk.the.environmentalist@gmail.com>                              | <nk.the.environmentalist@gmail.com>                              |
 |                                                                  |                                                                  |
 | Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
 |                                                                  |                                                                  ||                                                                  |                                                                  |
