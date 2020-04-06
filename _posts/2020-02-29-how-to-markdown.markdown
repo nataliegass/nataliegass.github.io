@@ -35,8 +35,8 @@ Line with ***bold-italicized*** text.
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Emoji Example                                                    | Emoji Example                                                    |
-| i &#58;heart&#58; you                                            | i &#58;heart&#58; you                                            |
+| Email Example                                                    | Email Example                                                    |
+| <nk.the.environmentalist@gmail.com>                              | <nk.the.environmentalist@gmail.com>                              |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Website Link Example                                             | Website Link Example                                             |
