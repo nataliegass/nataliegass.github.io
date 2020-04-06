@@ -29,13 +29,11 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
-|                                                                  |                                                                  ||                                                                  |                                                                  |
+|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Strikethrough Example                                            | Strikethrough Example                                            |
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
 |                                                                  |                                                                  |
-| Emoji Example                                                    | Emoji Example                                                    |
-| i \:two_hearts\: you                                             | i :two_hearts: you                                               |
 |                                                                  |                                                                  |
 | Website Link Example                                             | Website Link Example                                             |
 | \[Nat Geo\](https://www.nationalgeographic.com/)                 | [Nat Geo](https://www.nationalgeographic.com/)                   |
@@ -47,6 +45,8 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+
+## Heading 22
 
 <nk.the.environmentalist@gmail.com>
 
