@@ -27,8 +27,8 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| Hi<br>helloworld<br>Bye                                          | Hi<br>helloworld<br>Bye                                          |
+| Lines of Text Example                                            | Lines of Text Example                                            |
+| Hi\<br\>helloworld\<br\>Bye                                      | Hi<br>helloworld<br>Bye                                          |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | Strikethrough Example                                            | Strikethrough Example                                            |
