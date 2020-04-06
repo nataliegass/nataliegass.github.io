@@ -35,6 +35,10 @@ Line with ***bold-italicized*** text.
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Emoji Example                                                    | Emoji Example                                                    |
+| i &#58;heart&#58; you                                            | i &#58;heart&#58; you                                            |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 | Website Link Example                                             | Website Link Example                                             |
 | \[Nat Geo\](https://www.nationalgeographic.com/)                 | [Nat Geo](https://www.nationalgeographic.com/)                   |
 |                                                                  |                                                                  |
@@ -45,6 +49,8 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+
+
 
 ## Heading 22
 
