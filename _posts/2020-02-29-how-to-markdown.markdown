@@ -21,10 +21,13 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Bold Example                                                     | Bold Example                                                     |
 | Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
 |                                                                  |                                                                  |
+| Italics Example                                                  | Italics Example                                                  |
 | Line with \*italicized\* text.                                   | Line with *italicized* text.                                     |
 |                                                                  |                                                                  |
+| Bold Italics Example                                             | Bold Italics Example                                             |
 | Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
 |                                                                  |                                                                  |
 | Lines of Text Example                                            | Lines of Text Example                                            |
@@ -49,6 +52,11 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
+| Hyperlink example: \[Click Here\]\(\#diamonds\)                  | Hyperlink example: [Click Here](#diamonds)                       |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+
+
 
 
 
@@ -65,6 +73,9 @@ Line with **bold** text.
 Line with *italicized* text.
 
 Line with ***bold-italicized*** text.
+
+### The Hyperlink Goes To Here {#diamonds}
+
 
 ## Terminal Commands
 
