@@ -83,9 +83,34 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
-|| Headeritle              || Here's this   |
 | Paragraph   | Text        | And this      |
 
+
+### ahhh Example
+### ahhh Example
+### ahhh Example
+
+<table>
+    <tr>
+        <th>Col 1</th>
+        <th>Col 2</th>
+        <th>Col 3</th>
+    </tr>
+    <tr>
+        <td colspan="2">span 2 cols</td>
+        <td rowspan="2">span 2 rows</td>
+    </tr>
+    <tr>
+        <td>stuff</td>
+        <td>stuff</td>
+    </tr>
+</table>​
+
+### bbbbb Example
+### bbbbb Example
+### bbbbb Example
+
+<span><table><tr><th>Col 1</th><th>Col 2</th><th>Col 3</th></tr><tr><td colspan="2">span 2 cols</td><td rowspan="2">span 2 rows</td></tr><tr><td>stuff</td><td>stuff</td></tr></table>​</span>
 
 ### Hey Example
 ### Hey Example
