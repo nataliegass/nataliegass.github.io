@@ -75,7 +75,39 @@ Line with ***bold-italicized*** text.
 
 
 ## Heading 23
-#### Heading 4
+
+## Text colors and fonts
+## Text colors and fonts
+## Text colors and fonts
+
+In his beard lived three <span style="color:red">cardinals</span>.
+
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+
+## Text colors and fonts
+## Text colors and fonts
+## Text colors and fonts
+
+## TESTESTTESTERTABLE
+
+
+
+## TESTESTTESTERTABLE2
+## TESTESTTESTERTABLE2
+## TESTESTTESTERTABLE2
+
+
+
+[![EARTHLOVE](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
+
+
+## TESTESTTESTERTABLE
+
+#### Heading 42
+#### Heading 42
+#### Heading 42
+#### Heading 42
+#### Heading 42
 
 ## Terminal Commands
 
