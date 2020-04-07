@@ -54,9 +54,9 @@ Line with ***bold-italicized*** text.
 | A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
 |                                                                  |                                                                  |
 | **Heading Example**                                              | **Heading Example**                                              |
-| \# Heading 2                                                     | <span style="font-size: 16px;">heading</span>                    ||                                                                  |                                                                  |
+| \# Heading                                                       | <p><font size="4">This is some text!</font></p>                  ||                                                                  |                                                                  |
 | **Heading2 Example**                                             | **Heading2 Example**                                             |
-| \#\# Heading 2                                                   | <span style="font-size: 20px;">heading2</span>                   |
+| \#\# Heading 2                                                   | <p><font size="8">This is some text!</font></p>                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
