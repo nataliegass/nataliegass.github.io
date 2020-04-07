@@ -83,7 +83,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
-| Paragraph   | Te-t        | And :---      |
+| Paragraph   | Text        | And this      |
 
 
 ### Hey Example
@@ -95,7 +95,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 | :---                                                                                                                                                                                                             | :---                                                                                                                                                                                                             |
 |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
-| \| Syntax      \| Description \| Test Text     \|<br>\| :sss        \|    :ssss:   \|          sss: \|<br>\| Heade:      \| Title       \| Here's this   \|<br>\| Paragraph   \| Text        \| And more      \| |                                                                                                                                                                                                                  |
+| \| Syntax      \| Description \| Test Text     \|<br>\| :---        \|    :----:   \|          ---: \|<br>\| Header      \| Title       \| Here's this   \|<br>\| Paragraph   \| Text        \| And more      \| |                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
 |                                                                                                                                                                                                                  |                                                                                                                                                                                                                  |
 
