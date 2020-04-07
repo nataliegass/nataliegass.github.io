@@ -21,7 +21,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Random0000000000000000000000000000000000000Text                  | Random0000000000000000000000000000000000000Text                  |
+| Random0000000000000000000000000000000000000000Text               | Random0000000000000000000000000000000000000000Text               |
 |                                                                  |                                                                  |
 | **Bold Example**                                                 | **Bold Example**                                                 |
 | Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
@@ -47,7 +47,6 @@ Line with ***bold-italicized*** text.
 | **Email Example**                                                | **Email Example**                                                |
 | \<nk.the.environmentalist@gmail.com\>                            | <nk.the.environmentalist@gmail.com>                              |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
 | **Relative Link Example**                                        | **Relative Link Example**                                        |
 | Link to top of current page \[Click Here\]\(\#relativelink\)     | Link to top of current page [Click Here](#relativelink)          |
 |                                                                  |                                                                  |
@@ -55,9 +54,10 @@ Line with ***bold-italicized*** text.
 | A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-
+| **Heading Example**                                              | **Heading Example**                                              |
+| \<span style="font-size: 16px;"\>heading\</span\>                | <span style="font-size: 16px;">heading</span>                    ||                                                                  |                                                                  |
+| **Heading2 Example**                                             | **Heading2 Example**                                             |
+| \<span style="font-size: 20px;"\>heading2\</span\>               | <span style="font-size: 20px;">heading2</span>                   ||                                                                  |                                                                  |
 
 ### Footnote Example
 
