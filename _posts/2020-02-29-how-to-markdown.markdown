@@ -83,6 +83,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 | Syntax      | Description | Test Text     |
 | :---        |    :----:   |          ---: |
 | Header      | Title       | Here's this   |
+| Headeritle               || Here's this   |
 | Paragraph   | Text        | And this      |
 
 
