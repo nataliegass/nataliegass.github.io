@@ -21,7 +21,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-| Random0000000000000000000000000000000000Text                     | Random0000000000000000000000000000000000Text                     |
+| Random0000000000000000000000000000000000000Text                  | Random0000000000000000000000000000000000000Text                  |
 |                                                                  |                                                                  |
 | **Bold Example**                                                 | **Bold Example**                                                 |
 | Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
@@ -35,22 +35,17 @@ Line with ***bold-italicized*** text.
 | **Lines of Text Example**                                        | **Lines of Text Example**                                        |
 | Hi\<br\>helloworld\<br\>Bye                                      | Hi<br>helloworld<br>Bye                                          |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
 | **Strikethrough Example**                                        | **Strikethrough Example**                                        |
 | \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| **Email Example**                                                | **Email Example**                                                |
-| \<nk.the.environmentalist@gmail.com\>                            | <nk.the.environmentalist@gmail.com>                              |
-|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | **Website Link Example**                                         | **Website Link Example**                                         |
 | \[Nat Geo\](https://www.nationalgeographic.com/)                 | [Nat Geo](https://www.nationalgeographic.com/)                   |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
 | **Website Link Example (with Text)**                             | **Website Link Example (with Text)**                             |
 | \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
 |                                                                  |                                                                  |
+| **Email Example**                                                | **Email Example**                                                |
+| \<nk.the.environmentalist@gmail.com\>                            | <nk.the.environmentalist@gmail.com>                              |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 | **Relative Link Example**                                        | **Relative Link Example**                                        |
