@@ -91,13 +91,13 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ### Hey Example
 
 
-| tablewithinatable                                                                                                                                           | tablewithinatable                                                                                                                                           |
-| :---                                                                                                                                                        | :---                                                                                                                                                        |
-|                                                                                                                                                             |                                                                                                                                                             |
-|                                                                                                                                                             |                                                                                                                                                             |
-| \| Syntax      \| Description \| Test Text     \|<br>\| Header      \| Title       \| Here's this   \|<br>\| Paragraph   \| Text        \| And more      \| |                                                                                                                                                             |
-|                                                                                                                                                             |                                                                                                                                                             |
-|                                                                                                                                                             |                                                                                                                                                             |
+| tablewithinatable                                                                                                                                                                      | tablewithinatable                                                                                                                                                                      |
+| :---                                                                                                                                                                                   | :---                                                                                                                                                                                   |
+|                                                                                                                                                                                        |                                                                                                                                                                                        |
+|                                                                                                                                                                                        |                                                                                                                                                                                        |
+| \| Syntax      \| Description \| Test Text     \|<br><span>And : this</span><br>\| Header      \| Title       \| Here's this   \|<br>\| Paragraph   \| Text        \| And more      \| |                                                                                                                                                                                        |
+|                                                                                                                                                                                        |                                                                                                                                                                                        |
+|                                                                                                                                                                                        |                                                                                                                                                                                        |
 
 
 ### Emoji Example
@@ -108,6 +108,8 @@ That is so funny! :joy:
 :earth_africa: We love the earth. 
 
 :two_hearts: Always give love. 
+
+And &#58; this
 
 
 ### Task List Example
