@@ -234,22 +234,3 @@ _________________________
 | - First Item<br>- Second Item<br>&#8194;&#8194;&#8194;&#8194;- Sub Item X<br>&#8194;&#8194;&#8194;&#8194;- Sub Item Y<br>- Third Item<br>- Fourth Item                 | &#9679;&#8194;First Item<br>&#9679;&#8194;Second Item<br>&#8194;&#8194;&#8194;&#8194;&#9675;&#8194;Sub Item X<br>&#8194;&#8194;&#8194;&#8194;&#9675;&#8194;Sub Item Y<br>&#9679;&#8194;Third Item<br>&#9679;&#8194;Fourth Item |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
-
-
-### Everything Else Below
-
-
-## Terminal Commands
-
-| Linux                                                            | Windows                                                          |
-| :---                                                             | :---                                                             |
-|                                                                  |                                                                  |
-| Change Directory                                                 | Change Directory                                                 |
-| cd                                                               | cd                                                               |
-|                                                                  |                                                                  |
-| List Directory                                                   | List Directory                                                   |
-| ls                                                               | dir                                                              |
-|                                                                  |                                                                  |
-| Touch File                                                       | Touch File                                                       |
-| touch foo.txt                                                    | echo. > "foo.txt"                                                |
-|                                                                  |                                                                  |
