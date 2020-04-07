@@ -135,7 +135,21 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 ### Yo Example
 ### Yo Example
-### Yo Example
+
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
+[Prototype table]
+
+
+### Ouch Example
+### Ouch Example
+### Ouch Example
 
 
 | tablewithinatable                                                                                                                                                                                                | tablewithinatable                                                                                                                                                                                                |
