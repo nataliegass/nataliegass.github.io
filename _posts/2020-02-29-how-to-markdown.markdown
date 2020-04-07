@@ -88,76 +88,6 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ## Text colors and fonts
 ## Text colors and fonts
 
-## TESTESTTESTERTABLE
-
-| Raw                                                                                                           | Formatted                                                                                                     |
-| :---                                                                                                          | :---                                                                                                          |
-|                                                                                                               |                                                                                                               |
-| \[!\[EARTHLOVE\](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)\](https://www.youtube.com/watch?v=pvuN_WvF1to) | \[!\[EARTHLOVE\](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)\](https://www.youtube.com/watch?v=pvuN_WvF1to) |
-|                                                                                                               |                                                                                                               |
-
-## TESTESTTESTERTABLE2454545
-## TESTESTTESTERTABLE2454545
-## TESTESTTESTERTABLE2454545
-
-
-
-[![EARTHLOVE](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
-
-
-## TESTESTTESTERTABLE
-
-#### Heading 42
-#### Heading 42
-#### Heading 42
-#### Heading 42
-#### Heading 42
-
-## Terminal Commands
-
-| Linux                                                            | Windows                                                          |
-| :---                                                             | :---                                                             |
-|                                                                  |                                                                  |
-| Change Directory                                                 | Change Directory                                                 |
-| cd                                                               | cd                                                               |
-|                                                                  |                                                                  |
-| List Directory                                                   | List Directory                                                   |
-| ls                                                               | dir                                                              |
-|                                                                  |                                                                  |
-| Touch File                                                       | Touch File                                                       |
-| touch foo.txt                                                    | echo. > "foo.txt"                                                |
-|                                                                  |                                                                  |
-
-
-## Heading 2
-### Heading 3
-#### Heading 4
-
-| Markdown Raw                                                     | Markdown Formatted                                               |
-| :---                                                             | :---                                                             |
-|                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| \# Heading 1                                                     | <h1>Heading 1</h1>                                               |
-|                                                                  |                                                                  |
-| \#\# Heading 2                                                   | <h2>Heading 2</h2>                                               |
-|                                                                  |                                                                  |
-| \#\#\# Heading 3                                                 | <h3>Heading 3</h3>                                               |
-|                                                                  |                                                                  |
-| \#\#\#\# Heading 4                                               | <h4>Heading 4</h4>                                               |
-|                                                                  |                                                                  |
-| \#\#\#\#\# Heading 5                                             | <h5>Heading 5</h5>                                               |
-|                                                                  |                                                                  |
-| \#\#\#\#\#\# Heading 6                                           | <h6>Heading 6</h6>                                               |
-|                                                                  |                                                                  |
-| **Heading Example**                                              | **Heading Example**                                              |
-| \# Heading                                                       | <span><font size="4">This is some text</font></span>             ||                                                                  |                                                                  |
-| **Heading2 Example**                                             | **Heading2 Example**                                             |
-| \#\# Heading 2                                                   | <span><font size="8">This is some text</font></span>             |
-
-
-### Email Link Example
-<nk.the.environmentalist@gmail.com>
-
 
 ### Table Example
 
@@ -273,21 +203,17 @@ _________________________
 ### Everything Else Below
 
 
+## Terminal Commands
 
-| Markdown Raw                                 | Markdown Formatted                           |
-| :---                                         |                                         ---: |
-|                                              |                                              |
-|                                              |                                              |
-| Line with \*\*bold\*\* text.                 | Line with **bold** text.                     |
-|                                              |                                              |
-| Line with \*italicized\* text.               | Line with *italicized* text.                 |
-|                                              |                                              |
-| Line with \*\*\*bold-italicized\*\*\* text.  | Line with ***bold-italicized*** text.        |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
-|                                              |                                              |
+| Linux                                                            | Windows                                                          |
+| :---                                                             | :---                                                             |
+|                                                                  |                                                                  |
+| Change Directory                                                 | Change Directory                                                 |
+| cd                                                               | cd                                                               |
+|                                                                  |                                                                  |
+| List Directory                                                   | List Directory                                                   |
+| ls                                                               | dir                                                              |
+|                                                                  |                                                                  |
+| Touch File                                                       | Touch File                                                       |
+| touch foo.txt                                                    | echo. > "foo.txt"                                                |
+|                                                                  |                                                                  |
