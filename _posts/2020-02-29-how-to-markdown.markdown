@@ -7,6 +7,7 @@ tags: [gass, markdown, howtomarkdown]
 
 ## Heading 2
 ### Heading 3
+### The Relative Link Below Goes To Here {#relativelink}
 #### Heading 4
 
 Line with **bold** text.
@@ -51,8 +52,8 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
-| **Hyperlink example: \[Click Here\]\(\#diamonds\)                | Hyperlink example: [Click Here](#diamonds)                       |
+| **Relative Link Example**                                        | **Relative Link Example**                                        |
+| Link to top of current page \[Click Here\]\(\#relativelink\)     | Link to top of current page [Click Here](#relativelink)          |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
@@ -73,9 +74,6 @@ Line with **bold** text.
 Line with *italicized* text.
 
 Line with ***bold-italicized*** text.
-
-### The Hyperlink Goes To Here {#diamonds}
-
 
 ## Terminal Commands
 
