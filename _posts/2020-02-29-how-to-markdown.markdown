@@ -57,7 +57,7 @@ Line with ***bold-italicized*** text.
 | Link to top of current page \[Click Here\]\(\#relativelink\)     | Link to top of current page [Click Here](#relativelink)          |
 |                                                                  |                                                                  |
 | **Footnote Example**                                             | **Footnote Example**                                             |
-| A simple footnote\[\^1\] and here is a longer one\[\^bignote\]   | A simple footnote[^1] and here is a longer one[^bignote]         |
+| A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
