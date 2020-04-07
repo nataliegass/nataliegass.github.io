@@ -5,16 +5,7 @@ date:   2020-02-29
 tags: [gass, markdown, howtomarkdown]
 ---
 
-## Heading 2
-### Heading 3
 ### The Relative Link Below Goes To Here {#relativelink}
-#### Heading 4
-
-Line with **bold** text.
-
-Line with *italicized* text.
-
-Line with ***bold-italicized*** text.
 
 | Markdown Raw                                                     | Markdown Formatted                                               |
 | :---                                                             | :---                                                             |
@@ -78,13 +69,11 @@ Line with ***bold-italicized*** text.
 
 ## Text colors and fonts
 ## Text colors and fonts
-## Text colors and fonts
 
 In his beard lived three <span style="color:red">cardinals</span>.
 
 I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
-## Text colors and fonts
 ## Text colors and fonts
 ## Text colors and fonts
 
@@ -96,13 +85,6 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 | Header      | Title       | Here's this   |
 | Paragraph   | Text        | And more      |
 
-
-### Code Block Example 1
-```
-lines
-of
-code
-```
 
 
 ### Emoji Example
@@ -119,8 +101,6 @@ That is so funny! :joy:
 - [ ] Write the press releasse
 - [x] Update the website
 - [ ] Contact the media
-
-
 
 #### Backslash Escaping
 \\
@@ -149,9 +129,12 @@ That is so funny! :joy:
 #### Pipe Escaping
 \|
 
-### Embed YouTube Example
+## RawRawRaw
+```\\ \` \* \_ \# \+ \- \. \! \|```
+## Formatted Below 
 
-[![WE LOVE THE EARTH](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
+## FormattedFormattedFormatted
+\\ \` \* \_ \# \+ \- \. \! \|
 
 ### Horizontal Line Example 1
 ***
@@ -163,6 +146,11 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
+
+### Embed YouTube Example
+
+[![WE LOVE THE EARTH](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
+
 
 ## Heading 2
 ### Heading 3
