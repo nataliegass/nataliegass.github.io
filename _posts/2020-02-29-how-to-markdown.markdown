@@ -54,10 +54,12 @@ Line with ***bold-italicized*** text.
 | A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
 |                                                                  |                                                                  |
 | **Code Block Example**                                           | **Code Block Example**                                           |
-| ```here you go```                                                | ```here you go```                                                |
+| \`\`\`sample code here\`\`\`                                     | ```sample code here```                                           |
+|                                                                  |                                                                  |
+| **Block Quote Example**                                          | **Block Quote Example**                                          |
+| > Test                                                           | > Test                                                           |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-
 
 ### Footnote Example
 
