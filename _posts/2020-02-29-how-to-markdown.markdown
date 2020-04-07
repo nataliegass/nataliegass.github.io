@@ -53,11 +53,13 @@ Line with ***bold-italicized*** text.
 | **Footnote Example**                                             | **Footnote Example**                                             |
 | A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
 |                                                                  |                                                                  |
-|                                                                  |                                                                  |
 | **Heading Example**                                              | **Heading Example**                                              |
-| \<span style="font-size: 16px;"\>heading\</span\>                | <span style="font-size: 16px;">heading</span>                    ||                                                                  |                                                                  |
+| \# Heading 2                                                     | <span style="font-size: 16px;">heading</span>                    ||                                                                  |                                                                  |
 | **Heading2 Example**                                             | **Heading2 Example**                                             |
-| \<span style="font-size: 20px;"\>heading2\</span\>               | <span style="font-size: 20px;">heading2</span>                   ||                                                                  |                                                                  |
+| \#\# Heading 2                                                   | <span style="font-size: 20px;">heading2</span>                   |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+
 
 ### Footnote Example
 
