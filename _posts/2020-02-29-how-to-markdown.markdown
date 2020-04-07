@@ -21,7 +21,7 @@ Line with ***bold-italicized*** text.
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
-|                                                                  | Random0000000000000000000000000000Text                           |
+|                                                                  | Random00000000000000000000000000000Text                          |
 |                                                                  |                                                                  |
 | **Bold Example**                                                 | **Bold Example**                                                 |
 | Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
@@ -56,10 +56,25 @@ Line with ***bold-italicized*** text.
 | **Relative Link Example**                                        | **Relative Link Example**                                        |
 | Link to top of current page \[Click Here\]\(\#relativelink\)     | Link to top of current page [Click Here](#relativelink)          |
 |                                                                  |                                                                  |
+| **Footnote Example**                                             | **Footnote Example**                                             |
+| A simple footnote\[\^1\] and here is a longer one\[\^bignote\]   | A simple footnote[^1] and here is a longer one[^bignote]         |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
+|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
 
+### Footnote Example
 
+[^1]: This is the first footnote.
+
+[^bignote]: Here's footnote with multiple paragraphs and code.
+
+    Indent paragraphs to include them in the footnote.
+
+    ```Sample text inside a code block within the footnote.```
+
+    Add as many paragraphs as you like.
 
 
 ## Heading 22
