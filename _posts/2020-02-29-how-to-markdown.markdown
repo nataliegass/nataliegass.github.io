@@ -164,20 +164,6 @@ That is so funny! :joy:
 - [ ] Contact the media
 
 
-### Footnote Example
-Here's a simple footnote,[^1] and here's a longer one.[^bignote]
-
-[^1]: This is the first footnote.
-
-[^bignote]: Here's footnote with multiple paragraphs and code.
-
-    Indent paragraphs to include them in the footnote.
-
-    ```Sample text inside a code block within the footnote.```
-
-    Add as many paragraphs as you like.
-
-
 
 #### Backslash Escaping
 \\
