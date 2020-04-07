@@ -102,39 +102,11 @@ That is so funny! :joy:
 - [x] Update the website
 - [ ] Contact the media
 
-#### Backslash Escaping
-\\
-#### Backtick Escaping
-\`
-#### Asterisk Escaping
-\*
-#### Underscore Escaping
-\_
-#### Curly Braces Escaping
-\{ }
-#### Brackets Escaping
-\[ ]
-#### Parentheses Escaping
-\( )
-#### Pound Sign Escaping
-\#
-#### Plus Sign Escaping
-\+
-#### Hyphen Escaping
-\-
-#### Dot Escaping
-\.
-#### Exclamation Mark Escaping
-\!
-#### Pipe Escaping
-\|
-
 ## RawRawRaw
-```\\ \` \* \_ \# \+ \- \. \! \|```
-## Formatted Below 
+```\\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \|```
 
 ## FormattedFormattedFormatted
-\\ \` \* \_ \# \+ \- \. \! \|
+\\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \|
 
 ### Horizontal Line Example 1
 ***
