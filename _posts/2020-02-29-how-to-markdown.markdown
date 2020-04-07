@@ -53,10 +53,8 @@ Line with ***bold-italicized*** text.
 | **Footnote Example**                                             | **Footnote Example**                                             |
 | A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
 |                                                                  |                                                                  |
-| **Heading Example**                                              | **Heading Example**                                              |
-| \# Heading                                                       | <span><font size="4">This is some text</font></span>             ||                                                                  |                                                                  |
-| **Heading2 Example**                                             | **Heading2 Example**                                             |
-| \#\# Heading 2                                                   | <span><font size="8">This is some text</font></span>             |
+| **Code Block Example**                                           | **Code Block Example**                                           |
+| ```here you go```                                                | ```here you go```                                                |
 |                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
@@ -74,19 +72,8 @@ Line with ***bold-italicized*** text.
     Add as many paragraphs as you like.
 
 
-## Heading 22
-
-<nk.the.environmentalist@gmail.com>
-
-## Heading 2
-### Heading 3
+## Heading 23
 #### Heading 4
-
-Line with **bold** text.
-
-Line with *italicized* text.
-
-Line with ***bold-italicized*** text.
 
 ## Terminal Commands
 
@@ -123,6 +110,11 @@ Line with ***bold-italicized*** text.
 | \#\#\#\#\# Heading 5                                             | <h5>Heading 5</h5>                                               |
 |                                                                  |                                                                  |
 | \#\#\#\#\#\# Heading 6                                           | <h6>Heading 6</h6>                                               |
+|                                                                  |                                                                  |
+| **Heading Example**                                              | **Heading Example**                                              |
+| \# Heading                                                       | <span><font size="4">This is some text</font></span>             ||                                                                  |                                                                  |
+| **Heading2 Example**                                             | **Heading2 Example**                                             |
+| \#\# Heading 2                                                   | <span><font size="8">This is some text</font></span>             |
 
 
 ### Email Link Example
