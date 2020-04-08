@@ -206,44 +206,64 @@ _________________
 _________________________
 
 
+### The Relative Link Below Goes To Here {#relativelink}
 
-### Everything Else Below
-
-
-## Terminal Commands
-
-| Linux                                                            | Windows                                                          |
+| Markdown Raw                                                     | Markdown Formatted                                               |
 | :---                                                             | :---                                                             |
 |                                                                  |                                                                  |
-| Change Directory                                                 | Change Directory                                                 |
-| cd                                                               | cd                                                               |
 |                                                                  |                                                                  |
-| List Directory                                                   | List Directory                                                   |
-| ls                                                               | dir                                                              |
 |                                                                  |                                                                  |
-| Touch File                                                       | Touch File                                                       |
-| touch foo.txt                                                    | echo. > "foo.txt"                                                |
+| Random0000000000000000000000000000000000000000Text               | Random0000000000000000000000000000000000000000Text               |
+|                                                                  |                                                                  |
+| **Bold Example**                                                 | **Bold Example**                                                 |
+| Line with \*\*bold\*\* text.                                     | Line with **bold** text.                                         |
+|                                                                  |                                                                  |
+| **Italics Example**                                              | **Italics Example**                                              |
+| Line with \*italicized\* text.                                   | Line with *italicized* text.                                     |
+|                                                                  |                                                                  |
+| **Bold Italics Example**                                         | **Bold Italics Example**                                         |
+| Line with \*\*\*bold-italicized\*\*\* text.                      | Line with ***bold-italicized*** text.                            |
+|                                                                  |                                                                  |
+| **Lines of Text Example**                                        | **Lines of Text Example**                                        |
+| Hi\<br\>helloworld\<br\>Bye                                      | Hi<br>helloworld<br>Bye                                          |
+|                                                                  |                                                                  |
+| **Strikethrough Example**                                        | **Strikethrough Example**                                        |
+| \~\~The world is flat.\~\~ JK. Lol.                              | ~~The world is flat.~~ JK. Lol                                   |
+|                                                                  |                                                                  |
+| **Website Link Example**                                         | **Website Link Example**                                         |
+| \[Nat Geo\](https://www.nationalgeographic.com/)                 | [Nat Geo](https://www.nationalgeographic.com/)                   |
+|                                                                  |                                                                  |
+| **Website Link Example (with Text)**                             | **Website Link Example (with Text)**                             |
+| \[Nat Geo\](https://www.nationalgeographic.com/ "hello world!!") | [Nat Geo](https://www.nationalgeographic.com/ "hello world!!")   |
+|                                                                  |                                                                  |
+| **Email Example**                                                | **Email Example**                                                |
+| \<nk.the.environmentalist@gmail.com\>                            | <nk.the.environmentalist@gmail.com>                              |
+|                                                                  |                                                                  |
+| **Relative Link Example**                                        | **Relative Link Example**                                        |
+| Link to top of current page \[Click Here\]\(\#relativelink\)     | Link to top of current page [Click Here](#relativelink)          |
+|                                                                  |                                                                  |
+| **Footnote Example**                                             | **Footnote Example**                                             |
+| A simple footnote\[^1\] and here is a longer one\[^bignote\]     | A simple footnote[^1] and here is a longer one[^bignote]         |
+|                                                                  |                                                                  |
+| **Code Block Example**                                           | **Code Block Example**                                           |
+| \`\`\`sample code here\`\`\`                                     | ```sample code here```                                           |
+|                                                                  |                                                                  |
+| **Block Quote Example**                                          | **Block Quote Example**                                          |
+| > Test                                                           | > Test                                                           |
+|                                                                  |                                                                  |
 |                                                                  |                                                                  |
 
+### Footnote Example
 
-## more
-## more
-## more
+[^1]: This is the first footnote.
 
-<table>
-    <tr>
-        <th>Col 1</th>
-        <th>Col 2</th>
-        <th>Col 3</th>
-    </tr>
-    <tr>
-        <td colspan="2">span 2 cols</td>
-        <td rowspan="2">span 2 rows</td>
-    </tr>
-    <tr>
-        <td>stuff</td>
-        <td>stuff</td>
-    </tr>
-</table>​
+[^bignote]: Here's footnote with multiple paragraphs and code.
 
-##Goodbyefornow
+    Indent paragraphs to include them in the footnote.
+
+    ```Sample text inside a code block within the footnote.```
+
+    Add as many paragraphs as you like.
+
+
+## Heading 23

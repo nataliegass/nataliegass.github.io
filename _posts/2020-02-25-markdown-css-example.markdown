@@ -205,3 +205,44 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
+
+### Everything Else Below
+
+
+## Terminal Commands
+
+| Linux                                                            | Windows                                                          |
+| :---                                                             | :---                                                             |
+|                                                                  |                                                                  |
+| Change Directory                                                 | Change Directory                                                 |
+| cd                                                               | cd                                                               |
+|                                                                  |                                                                  |
+| List Directory                                                   | List Directory                                                   |
+| ls                                                               | dir                                                              |
+|                                                                  |                                                                  |
+| Touch File                                                       | Touch File                                                       |
+| touch foo.txt                                                    | echo. > "foo.txt"                                                |
+|                                                                  |                                                                  |
+
+
+## more
+## more
+## more
+
+<table>
+    <tr>
+        <th>Col 1</th>
+        <th>Col 2</th>
+        <th>Col 3</th>
+    </tr>
+    <tr>
+        <td colspan="2">span 2 cols</td>
+        <td rowspan="2">span 2 rows</td>
+    </tr>
+    <tr>
+        <td>stuff</td>
+        <td>stuff</td>
+    </tr>
+</table>​
+
+## Goodbyefornow
