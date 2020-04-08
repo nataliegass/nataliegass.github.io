@@ -86,9 +86,34 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 | Paragraph   | Text        | And this      |
 
 
-### ahhh Example
-### ahhh Example
-### ahhh Example
+### ahhh1 Example
+### ahhh1 Example
+### ahhh1 Example
+
+| One    | Two | Three | Four    | Five  | Six 
+| -
+| Span <td colspan=3>triple  <td colspan=2>double
+
+
+### ahhh2 Example
+### ahhh2 Example
+### ahhh2 Example
+
+| One    | Two | Three | Four    | Five  | Six
+|-|-|-|-|-|-
+| Span <td colspan=3>triple  <td colspan=2>double
+
+### ahhh3 Example
+### ahhh3 Example
+### ahhh3 Example
+
+One    | Two | Three | Four    | Five  | Six
+-|||||-
+Span <td colspan=3>triple  <td colspan=2>double
+
+### ahhh4 Example
+### ahhh4 Example
+### ahhh4 Example
 
 <table>
     <tr>
@@ -115,37 +140,6 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 ### Hey Example
 ### Hey Example
 ### Hey Example
-
-
-
-|              | Header 1        | Header 2                       || Header 3                       ||
-|              | Subheader 1     | Subheader 2.1  | Subheader 2.2  | Subheader 3.1  | Subheader 3.2  |
-|==============|-----------------|----------------|----------------|----------------|----------------|
-| Row Header 1 | 3row, 3col span                                 ||| Colspan only                   ||
-| Row Header 2 |       ^                                         ||| Rowspan only   | Cell           |
-| Row Header 3 |       ^                                         |||       ^        | Cell           |
-| Row Header 4 |  Row            |  Each cell     |:   Centered   :| Right-aligned :|: Left-aligned  |
-:              :  with multiple  :  has room for  :   multi-line   :    multi-line  :  multi-line    :
-:              :  lines.         :  more text.    :      text.     :         text.  :  text.         :
-|--------------|-----------------|----------------|----------------|----------------|----------------|
-[Caption Text]
-
-
-
-
-### Yo Example
-### Yo Example
-
-|             |          Grouping           ||
-First Header  | Second Header | Third Header |
- ------------ | :-----------: | -----------: |
-Content       |          *Long Cell*        ||
-Content       |   **Cell**    |         Cell |
-
-
-### Ouch Example
-### Ouch Example
-### Ouch Example
 
 
 | tablewithinatable                                                                                                                                                                                                | tablewithinatable                                                                                                                                                                                                |
