@@ -53,10 +53,15 @@ tags: [gass, markdown, howtomarkdown]
 | **Unordered List**                                                                                                                                                     | **Unordered List**                                                                                                                                                                                                             |
 | - First Item<br>- Second Item<br>&#8194;&#8194;&#8194;&#8194;- Sub Item X<br>&#8194;&#8194;&#8194;&#8194;- Sub Item Y<br>- Third Item<br>- Fourth Item                 | &#9679;&#8194;First Item<br>&#9679;&#8194;Second Item<br>&#8194;&#8194;&#8194;&#8194;&#9675;&#8194;Sub Item X<br>&#8194;&#8194;&#8194;&#8194;&#9675;&#8194;Sub Item Y<br>&#9679;&#8194;Third Item<br>&#9679;&#8194;Fourth Item |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
+| **Symbols**                                                                                                                                                            | **Symbols**                                                                                                                                                                                                                    |
+| ```\\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \|```                                                                                                                  | ```\ ` * _ { } [ ] ( ) # + - . ! |```                                                                                                                                                                                          |
+|                                                                                                                                                                        |                                                                                                                                                                                                                                |
+| **Table Example**                                                                                                                                                      | **Table Example**                                                                                                                                                                                                              |
+| \| Earth      \| Sky \| Ocean     \|<br>\| :---        \|    :----:   \|          ---: \|<br>\| Dirt \| Air  \| Water  \|<br>\| Fox   \| Bee        \| Dolphin      \| | *result below*                                                                                                                                                                                                                 |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
-|                                                                                                                                                                        |                                                                                                                                                                                                                                |
-|                                                                                                                                                                        |                                                                                                                                                                                                                                |
+
+```\\ \` \* \_ \{ \} \[ \] \( \) \# \+ \- \. \! \|```
 
 ### Footnote Example
 
@@ -77,66 +82,12 @@ tags: [gass, markdown, howtomarkdown]
 
 ### Table Example
 
-| Syntax      | Description | Test Text     |
+| Earth       | Sky         | Ocean         |
 | :---        |    :----:   |          ---: |
-| Header      | Title       | Here's this   |
-| Paragraph   | Text        | And this      |
+| Dirt        | Air         | Water         |
+| Fox         | Bee         | Dolphin       |
 
-
-### ahhh1 Example
-### ahhh1 Example
-### ahhh1 Example
-
-| One    | Two | Three | Four    | Five  | Six 
-| -
-| Span <td colspan=3>triple  <td colspan=2>double
-
-
-### ahhh2 Example
-### ahhh2 Example
-### ahhh2 Example
-
-| One    | Two | Three | Four    | Five  | Six
-|-|-|-|-|-|-
-| Span <td colspan=3>triple  <td colspan=2>double
-
-### ahhh3 Example
-### ahhh3 Example
-### ahhh3 Example
-
-One    | Two | Three | Four    | Five  | Six
--|||||-
-Span <td colspan=3>triple  <td colspan=2>double
-
-### ahhh4 Example
-### ahhh4 Example
-### ahhh4 Example
-
-<table>
-    <tr>
-        <th>Col 1</th>
-        <th>Col 2</th>
-        <th>Col 3</th>
-    </tr>
-    <tr>
-        <td colspan="2">span 2 cols</td>
-        <td rowspan="2">span 2 rows</td>
-    </tr>
-    <tr>
-        <td>stuff</td>
-        <td>stuff</td>
-    </tr>
-</table>​
-
-### tttt Example
-### tttt Example
-### tttt Example
-
-<span><table><tr><th>Col 1</th><th>Col 2</th><th>Col 3</th></tr><tr><td colspan="2">span 2 cols</td><td rowspan="2">span 2 rows</td></tr><tr><td>stuff</td><td>stuff</td></tr></table>​</span>
-
-### Hey Example
-### Hey Example
-### Hey Example
+## iiiii
 
 
 | tablewithinatable                                                                                                                                                                                                | tablewithinatable                                                                                                                                                                                                |
