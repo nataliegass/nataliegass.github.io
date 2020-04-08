@@ -1,5 +1,4 @@
 ---
-title:  "Markdown jQuery Example"
 excerpt: "Best markdown jquery example ever..."
 date:   2020-04-08
 tags: [gass, markdown, jquery]
