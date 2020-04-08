@@ -131,9 +131,9 @@ Span <td colspan=3>triple  <td colspan=2>double
     </tr>
 </table>​
 
-### bbbbb Example
-### bbbbb Example
-### bbbbb Example
+### tttt Example
+### tttt Example
+### tttt Example
 
 <span><table><tr><th>Col 1</th><th>Col 2</th><th>Col 3</th></tr><tr><td colspan="2">span 2 cols</td><td rowspan="2">span 2 rows</td></tr><tr><td>stuff</td><td>stuff</td></tr></table>​</span>
 
