@@ -47,11 +47,11 @@ tags: [gass, markdown, howtomarkdown]
 | **Code Block Example**                                                                                                                                                 | **Code Block Example**                                                                                                                                                                                                         |
 | \`\`\`sample code here\`\`\`                                                                                                                                           | ```sample code here```                                                                                                                                                                                                         |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
-| **Block Quote Example**                                                                                                                                                | **Block Quote Example**                                                                                                                                                                                                        |
-| > Test                                                                                                                                                                 | > Test                                                                                                                                                                                                                         |
+| **Ordered List**                                                                                                                                                       | **Ordered List**                                                                                                                                                                                                               |
+| 1. First Item<br>2. Second Item<br>&#8194;&#8194;&#8194;&#8194;1. Sub Item X<br>&#8194;&#8194;&#8194;&#8194;2. Sub Item Y<br>3. Third Item<br>4. Fourth Item           | 1. First Item<br>2. Second Item<br>&#8194;&#8194;&#8194;&#8194;1. Sub Item X<br>&#8194;&#8194;&#8194;&#8194;2. Sub Item Y<br>3. Third Item<br>4. Fourth Item                                                                   |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
-|                                                                                                                                                                        |                                                                                                                                                                                                                                |
-|                                                                                                                                                                        |                                                                                                                                                                                                                                |
+| **Unordered List**                                                                                                                                                     | **Unordered List**                                                                                                                                                                                                             |
+| - First Item<br>- Second Item<br>&#8194;&#8194;&#8194;&#8194;- Sub Item X<br>&#8194;&#8194;&#8194;&#8194;- Sub Item Y<br>- Third Item<br>- Fourth Item                 | &#9679;&#8194;First Item<br>&#9679;&#8194;Second Item<br>&#8194;&#8194;&#8194;&#8194;&#9675;&#8194;Sub Item X<br>&#8194;&#8194;&#8194;&#8194;&#9675;&#8194;Sub Item Y<br>&#9679;&#8194;Third Item<br>&#9679;&#8194;Fourth Item |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
 |                                                                                                                                                                        |                                                                                                                                                                                                                                |
@@ -73,15 +73,6 @@ tags: [gass, markdown, howtomarkdown]
 
 ## Heading 23
 
-## Text colors and fonts
-## Text colors and fonts
-
-In his beard lived three <span style="color:red">cardinals</span>.
-
-I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
-
-## Text colors and fonts
-## Text colors and fonts
 
 
 ### Table Example
