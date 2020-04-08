@@ -1,5 +1,4 @@
 ---
-title:  "Markdown JavaScript Example"
 excerpt: "Best markdown javascript example ever..."
 date:   2020-04-08
 tags: [gass, markdown, javascript]
