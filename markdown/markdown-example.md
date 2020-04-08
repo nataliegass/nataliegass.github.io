@@ -1,5 +1,4 @@
 ---
-title:  "Markdown Example"
 excerpt: "Best markdown example ever..."
 date:   2020-04-08
 tags: [gass, markdown]
