@@ -141,6 +141,16 @@ That is so funny! :joy:
 - [x] Update the website
 - [ ] Contact the media
 
+## Text colors and fonts
+## Text colors and fonts
+
+In his beard lived three <span style="color:red">cardinals</span>.
+
+I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
+
+## Text colors and fonts
+## Text colors and fonts
+
 ### Website Link Example
 [Nat Geo](https://www.nationalgeographic.com/)
 
