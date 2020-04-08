@@ -74,13 +74,3 @@ tags: [gass, markdown, howtomarkdown]
     ```Sample text inside a code block within the footnote.```
 
     Add as many paragraphs as you like.
-
-### Horizontal Line Example 1
-\*\*\*
-***
-### Horizontal Line Example 2
-\-\-\-
----
-### Horizontal Line Example 3
-\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
-_________________
