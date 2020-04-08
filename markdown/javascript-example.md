@@ -1,10 +1,10 @@
 ---
 title:  "Markdown JavaScript Example"
 excerpt: "Best markdown javascript example ever..."
-date:   2020-02-26
+date:   2020-04-08
 tags: [gass, markdown, javascript]
 ---
-<script src="../../../assets/js/mycustomjs.js" type="application/javascript" media="all"></script>
+<script src="../assets/js/mycustomjs.js" type="application/javascript" media="all"></script>
 
 ## Heading 2
 ### JavaScript
