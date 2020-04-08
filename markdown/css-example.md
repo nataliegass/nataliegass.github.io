@@ -1,5 +1,4 @@
 ---
-title:  "Markdown CSS Example"
 excerpt: "Best markdown css example ever..."
 date:   2020-04-08
 tags: [gass, markdown, css]
