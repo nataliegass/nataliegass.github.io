@@ -1,14 +1,14 @@
 ---
 title:  "Markdown jQuery Example"
 excerpt: "Best markdown jquery example ever..."
-date:   2020-02-27
+date:   2020-04-08
 tags: [gass, markdown, jquery]
 ---
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js" type="application/javascript" media="all"></script>
 
 <script src="https://ajax.aspnetcdn.com/ajax/jQuery/jquery-3.4.1.min.js" type="application/javascript" media="all"></script>
 
-<script src="../../../assets/js/mycustomjquery.js" type="application/javascript" media="all"></script>
+<script src="../assets/js/mycustomjquery.js" type="application/javascript" media="all"></script>
 
 ## Heading 2
 ### jQuery
