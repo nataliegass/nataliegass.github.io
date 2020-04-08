@@ -1,11 +1,10 @@
 ---
-excerpt: "Markdown example..."
 date:   2020-04-08
 tags: [gass, markdown]
 ---
 
-## Heading 2
 ### Heading 3
+## Heading 2
 #### Heading 4
 
 Line with **bold** text.
