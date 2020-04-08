@@ -65,20 +65,6 @@ tags: [gass, markdown, howtomarkdown]
 | Dirt        | Air         | Water         |
 | Fox         | Bee         | Dolphin       |
 
-### Emoji Example
-Gone camping! :tent: Be back soon.
-
-That is so funny! :joy:
-
-:earth_africa: We love the earth. 
-
-:two_hearts: Always give love. 
-
-### Task List Example
-- [ ] Write the press releasse
-- [x] Update the website
-- [ ] Contact the media
-
 [^1]: This is the first footnote.
 
 [^bignote]: Here's footnote with multiple paragraphs and code.
@@ -90,12 +76,11 @@ That is so funny! :joy:
     Add as many paragraphs as you like.
 
 ### Horizontal Line Example 1
+\*\*\*
 ***
 ### Horizontal Line Example 2
+\-\-\-
 ---
 ### Horizontal Line Example 3
+\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 _________________
-### Horizontal Line Example 4
-- - -
-### Horizontal Line Example 5
-_________________________
