@@ -83,27 +83,3 @@ tags: [gass, markdown, howtomarkdown]
     Add as many paragraphs as you like.
 
     Add as many paragraphs as you like.
-
-
-## LOL
-## LOL
-## LOL
-
-### Blockquote Example 1
-
-> This text represents a blockquote.
-
-### Blockquote Example 2
-
-> Dorothy followed her through many of the beautiful rooms in her castle.
->
->> The Witch made her clean the pots and kettles and sweep the floor and keep the fire fed with wood.
-
-### Blockquote Example 3
-
-> #### The quarterly results look great!
->
-> - Revenue was off the chart.
-> - Profits were higher than ever.
->
->  *Everything* is going according to **plan**.
