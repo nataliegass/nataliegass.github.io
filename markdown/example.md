@@ -1,14 +1,12 @@
 ---
 excerpt: "yea"
 date:   2020-04-08
-tags: [gass, markdown, css]
+tags: [gass, markdown]
 ---
-<link rel="stylesheet" type="text/css" media="all" href="../assets/css/mycustomcss.css" />
-
 
 ## Heading 2
 ### CSS
-#### Heading 4 {#indigo}
+#### Heading 4
 
 Line with **bold** text.
 
@@ -244,4 +242,6 @@ _________________________
     </tr>
 </table>
 
-## Goodbyefornow
+## life
+## life
+## life
