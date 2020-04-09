@@ -1,12 +1,14 @@
 ---
-excerpt: "Best markdown example ever..."
+excerpt: "yea"
 date:   2020-04-08
-tags: [gass, markdown]
+tags: [gass, markdown, css]
 ---
+<link rel="stylesheet" type="text/css" media="all" href="../assets/css/mycustomcss.css" />
+
 
 ## Heading 2
-### Heading 3
-#### Heading 4
+### CSS
+#### Heading 4 {#indigo}
 
 Line with **bold** text.
 
@@ -202,3 +204,44 @@ _________________
 - - -
 ### Horizontal Line Example 5
 _________________________
+
+### Everything Else Below
+
+
+## Terminal Commands
+
+| Linux                                                            | Windows                                                          |
+| :---                                                             | :---                                                             |
+|                                                                  |                                                                  |
+| Change Directory                                                 | Change Directory                                                 |
+| cd                                                               | cd                                                               |
+|                                                                  |                                                                  |
+| List Directory                                                   | List Directory                                                   |
+| ls                                                               | dir                                                              |
+|                                                                  |                                                                  |
+| Touch File                                                       | Touch File                                                       |
+| touch foo.txt                                                    | echo. > "foo.txt"                                                |
+|                                                                  |                                                                  |
+
+
+## more
+## more
+## more
+
+<table>
+    <tr>
+        <th>Col 1</th>
+        <th>Col 2</th>
+        <th>Col 3</th>
+    </tr>
+    <tr>
+        <td colspan="2">span 2 cols</td>
+        <td rowspan="2">span 2 rows</td>
+    </tr>
+    <tr>
+        <td>stuff</td>
+        <td>stuff</td>
+    </tr>
+</table>
+
+## Goodbyefornow
