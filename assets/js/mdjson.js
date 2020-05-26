@@ -1,5 +1,5 @@
 $().ready(function(){
-    $.getJSON( "../js/nkatgass.json", function( data ) {
+    $.getJSON( "../json/nkatgass.json", function( data ) {
     console.log(data);
     $("#text").html(data["text"]);
   });
