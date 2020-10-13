@@ -1,6 +1,6 @@
 ## Natalie Katherine Gass
 ### Email:
-#### nk.the.environmentalist@gmail.com
+#### <nk.the.environmentalist@gmail.com>
 ### Phone:
 #### 2316905866
 ### Zoom Personal Meeting ID #:
