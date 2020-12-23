@@ -188,7 +188,7 @@ I am in <span style="font-family:Papyrus; font-size:4em;">LOVE!</span>
 
 ### Embed YouTube Example
 
-[![WE LOVE THE EARTH](https://img.youtube.com/vi/pvuN_WvF1to/0.jpg)](https://www.youtube.com/watch?v=pvuN_WvF1to)
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/8X92coY3rQg/0.jpg)](https://youtu.be/8X92coY3rQg)
 
 ### Horizontal Line Example 1
 ***
