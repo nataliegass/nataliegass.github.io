@@ -197,7 +197,7 @@ That is so funny! :joy:
 
 ### Embed YouTube Example
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/https://youtu.be/8X92coY3rQg/0.jpg)](https://youtu.be/8X92coY3rQg)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8X92coY3rQg" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Horizontal Line Example 1
 ***
